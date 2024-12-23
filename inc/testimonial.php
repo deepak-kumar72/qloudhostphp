@@ -1,46 +1,93 @@
-<?php
-// Function to fetch data from JSON file
-function fetchDataFromJson($filePath)
-{
-    if (file_exists($filePath)) {
-        $jsonData = file_get_contents($filePath);
-        return json_decode($jsonData, true);
-    } else {
-        return null;
-    }
-}
 
-// Fetch testimonials data
-$data = fetchDataFromJson('./assets/data/home.json');
-
-if ($data && isset($data['testimonials'])) {
-    $testimonials = $data['testimonials'];
-} else {
-    echo "<p>Testimonials data not found.</p>";
-    exit;
-}
-?>
 
 <div class="testimonial-sec py-5">
     <div class="container">
         <div class="testimonial-section">
-            <h2 class="testimonial-head"><?php echo htmlspecialchars($testimonials['heading']); ?></h2>
-            <p class="w-75 mb-5 testimonial-subHeading"><?php echo htmlspecialchars($testimonials['subHeading']); ?></p>
+            <h2 class="testimonial-head">What Our Clients Said About Us</h2>
+            <p class="w-75 mb-5 testimonial-subHeading">We are loved by marketers, agencies, small business owners, and many more. Our customers’ testimonials are the best social proof we can get!</p>
 
             <div class="container">
                 <div class="testimonial-slider">
-                    <?php foreach ($testimonials['data'] as $testimonial): ?>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="<?php echo htmlspecialchars($testimonial['imgUrl']); ?>" alt="<?php echo htmlspecialchars($testimonial['name']); ?>" class="me-3 testimonial-img" />
+                                <img src="/assets/testimonial1.png" alt="" class="me-3 testimonial-img" />
                                 <div>
-                                    <h3 class="testimonial-name"><?php echo htmlspecialchars($testimonial['name']); ?></h3>
-                                    <p class="testimonial-role"><?php echo htmlspecialchars($testimonial['role']); ?></p>
+                                    <h3 class="testimonial-name">Peters</h3>
+                                    <p class="testimonial-role">Qloud Host is the best Offshore hosting…</p>
                                 </div>
                             </div>
-                            <p class="feedback"><?php echo htmlspecialchars($testimonial['feedback']); ?></p>
+                            <p class="feedback">Qloud Host is the best Offshore hosting one will always desire to have. Their support is always very much ready to help most especially Isha who handled my little hitches like a professional that he is. I will always recommend Qloud Host at all times to friends and Family.</p>
                         </div>
-                    <?php endforeach; ?>
+                        <div class="testimonial-content testimonial-card p-4">
+                            <div class="d-flex mb-3">
+                                <img src="/assets/testimonial2.png" alt="" class="me-3 testimonial-img" />
+                                <div>
+                                    <h3 class="testimonial-name">Vihari Anand</h3>
+                                    <p class="testimonial-role">qloud host is the best hosting service…</p>
+                                </div>
+                            </div>
+                            <p class="feedback">qloud host is the best hosting service provides excellent when its matter of safety and security. isha pandey guiding me in and every step to make the hosting process simple and succesful. she is best in handling the customer issues 24x7.</p>
+                        </div>
+                        <div class="testimonial-content testimonial-card p-4">
+                            <div class="d-flex mb-3">
+                                <img src="/assets/testimonial3.png" alt="" class="me-3 testimonial-img" />
+                                <div>
+                                    <h3 class="testimonial-name">With Niolex</h3>
+                                    <p class="testimonial-role">These guys are excellent</p>
+                                </div>
+                            </div>
+                            <p class="feedback">These guys are excellent. After purchasing the service yawin has assigned me a dedicated support member who setup my server in quick and helped me to setup my apps. Any issue that i had was resolved quick. Their speed is very developer friendly. I recommend them unreservedly.</p>
+                        </div>
+                        <div class="testimonial-content testimonial-card p-4">
+                            <div class="d-flex mb-3">
+                                <img src="/assets/testimonial4.png" alt="" class="me-3 testimonial-img" />
+                                <div>
+                                    <h3 class="testimonial-name">Joram Dymisster</h3>
+                                    <p class="testimonial-role">BEST HOSTING SERVICE</p>
+                                </div>
+                            </div>
+                            <p class="feedback">Thanks to the Ranjeet,Aisha and Whole Team of Qloudhost.Am happy with there support and understanding.At some point i was having problems with my payment gateway.I ask them and they agree to extend my overdue invoice time to let me solve the problem without suspend my services.</p>
+                        </div>
+                        <div class="testimonial-content testimonial-card p-4">
+                            <div class="d-flex mb-3">
+                                <img src="/assets/testimonial5.png" alt="" class="me-3 testimonial-img" />
+                                <div>
+                                    <h3 class="testimonial-name">Adam Johnson</h3>
+                                    <p class="testimonial-role">Qloud host is the best</p>
+                                </div>
+                            </div>
+                            <p class="feedback">Qloud is the best hosting service. Servers are super fast, the support team is fantastic just a fantastic service you also do not have to wait for someone to activate the service after purchase the system immediately activates it for you which is amazing and also I love the pricing. Highly recommended A++++++++</p>
+                        </div>
+                        <div class="testimonial-content testimonial-card p-4">
+                            <div class="d-flex mb-3">
+                                <img src="/assets/testimonial6.png" alt="" class="me-3 testimonial-img" />
+                                <div>
+                                    <h3 class="testimonial-name">Lucifer XVI</h3>
+                                    <p class="testimonial-role">Definitely would suggest to other friends of mine who have their own companies</p>
+                                </div>
+                            </div>
+                            <p class="feedback">Well the server was never really out of order except for once when I was not even able to login or even open the site. So I figured that there must be some maintenance going on. I was still able to access my admin panel so all is good.</p>
+                        </div>
+                        <div class="testimonial-content testimonial-card p-4">
+                            <div class="d-flex mb-3">
+                                <img src="/assets/testimonial7.png" alt="" class="me-3 testimonial-img" />
+                                <div>
+                                    <h3 class="testimonial-name">ADITYA KUMAR</h3>
+                                    <p class="testimonial-role">Great server speed & affordable</p>
+                                </div>
+                            </div>
+                            <p class="feedback">These servers are fast and there team even resolved my plugin issues.I was hesitant at first, as not a well known company. But the dedicated servers were so cheap that I purchased just to give it a shot. Now I regret wasting so much more money on less powerful vps servers for so long.</p>
+                        </div>
+                        <div class="testimonial-content testimonial-card p-4">
+                            <div class="d-flex mb-3">
+                                <img src="/assets/testimonial8.png" alt="" class="me-3 testimonial-img" />
+                                <div>
+                                    <h3 class="testimonial-name">With Niolex</h3>
+                                    <p class="testimonial-role">These guys are excellent</p>
+                                </div>
+                            </div>
+                            <p class="feedback"></p>
+                        </div>
                 </div>
             </div>
         </div>

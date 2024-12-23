@@ -72,61 +72,142 @@ include('./inc/navbar.php');
 </div>
 
 <!-- explore Plan -->
-<!-- <div class="hosting-plan mb-5" id="explore">
-    <div class="container plan-sec mt-5" >
+<div class="hosting-plan mb-5" id="explore">
+    <div class="container plan-sec mt-5">
         <h2 class="text-center m-auto mb-3">
-            <?php echo htmlspecialchars($homePlan['heading']); ?>
+            Best DMCA Ignored Hosting Server Plans for You!
         </h2>
         <p class="text-center mb-5 planHead-con m-auto">
-            <?php echo htmlspecialchars($homePlan['subHeading']); ?>
+            Get award-winning Best Cheap DMCA Ignored hosting and protect your identity on the internet at the cheapest price in the market.
         </p>
 
         <div class="row home-plan justify-content-center">
-            <?php foreach ($plansData as $plan): ?>
-                <div class="col-12 col-md-6 col-lg-4 mb-5 explore-plan-col">
-                    <div class="<?php echo $plan['popular'] ? 'popular-card h-100 position-relative' : 'h-100 card-body plan-body position-relative'; ?>">
-                        <?php if ($plan['popular']): ?>
-                            <div class="popular-badge position-absolute">Popular</div>
-                        <?php endif; ?>
-
-                        <h5 class="card-title mb-4">
-                            OFFSHORE <span><?php echo htmlspecialchars($plan['title']); ?></span>
-                        </h5>
-                        <p class="card-text plan-desc mb-3">
-                            <?php echo htmlspecialchars($plan['description']); ?>
-                        </p>
-                        <h3 class="card-price mb-4">
-                            <?php echo htmlspecialchars($plan['price']); ?> <span class="price-unit">/month</span>
-                        </h3>
-                        <p class="<?php echo $plan['popular'] ? 'save save-popular save-popular-badge' : 'save save-home-plan'; ?>">
-                            <?php echo htmlspecialchars($plan['save']); ?>
-                        </p>
-                        <h4 class="mb-3 top-specification">Specifications</h4>
-                        <ul class="list-unstyled mb-4">
-                            <?php foreach ($plan['features'] as $feature): ?>
-                                <li class="mb-3 features">
-                                    <i class="fa fa-check check"></i> <?php echo htmlspecialchars($feature); ?>
-                                </li>
-                            <?php endforeach; ?>
-                        </ul>
-                        <a href="<?php echo htmlspecialchars($plan['url']); ?>">
-                            <button class="plan-btn">Get Started</button>
-                        </a>
-                    </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-5 explore-plan-col">
+                <div class="h-100 card-body plan-body position-relative">
+                    <h5 class="card-title mb-4">
+                        OFFSHORE <span>SHARED</span>
+                    </h5>
+                    <p class="card-text plan-desc mb-3">
+                        Easy and affordable for website growth.
+                    </p>
+                    <h3 class="card-price mb-4">
+                        $3.50<span class="price-unit">/month</span>
+                    </h3>
+                    <p class="save save-home-plan">
+                        SAVE 30%
+                    </p>
+                    <h4 class="mb-3 top-specification">Specifications</h4>
+                    <ul class="list-unstyled mb-4">
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 1 Website
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 1 GB RAM
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 10 GB NVMe SSD
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 150 GB Bandwidth
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> Direct Admin Panel
+                        </li>
+                    </ul>
+                    <a href="">
+                        <button class="plan-btn">Get Started</button>
+                    </a>
                 </div>
-            <?php endforeach; ?>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-5 explore-plan-col">
+                <div class="popular-card h-100 position-relative">
+                    <div class="popular-badge position-absolute">Popular</div>
+                    <h5 class="card-title mb-4">
+                        OFFSHORE <span> VPS</span>
+                    </h5>
+                    <p class="card-text plan-desc mb-3">
+                        Perfect power and resources pair.
+                    </p>
+                    <h3 class="card-price mb-4">
+                        $18.99<span class="price-unit">/month</span>
+                    </h3>
+                    <p class="save save-popular save-popular-badge">
+                        SAVE 14%
+                    </p>
+                    <h4 class="mb-3 top-specification">Specifications</h4>
+                    <ul class="list-unstyled mb-4">
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i>2 CPU
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i>4 GB RAM
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 50 GB NVMe SSD
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 1 TB Bandwidth
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i>Free Control Panel
+                        </li>
+
+                    </ul>
+                    <a href="">
+                        <button class="plan-btn">Get Started</button>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-5 explore-plan-col">
+                <div class="h-100 card-body plan-body position-relative">
+                    <h5 class="card-title mb-4">
+                        OFFSHORE <span>DEDICATED</span>
+                    </h5>
+                    <p class="card-text plan-desc mb-3">
+                        Perfect Custom Solution for your Needs
+                    </p>
+                    <h3 class="card-price mb-4">
+                        $129<span class="price-unit">/month</span>
+                    </h3>
+                    <p class="save save-home-plan">
+                        SAVE 30%
+                    </p>
+                    <h4 class="mb-3 top-specification">Specifications</h4>
+                    <ul class="list-unstyled mb-4">
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> Ryzen 9 3900X(12c/24t)
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 64 GB RAM DDR4
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 960 GB NVMe SSD
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 50 TB Bandwidth
+                        </li>
+                        <li class="mb-3 features">
+                            <i class="fa fa-check check"></i> 1 IPv4 address
+                        </li>
+                    </ul>
+                    <a href="">
+                        <button class="plan-btn">Get Started</button>
+                    </a>
+                </div>
+            </div>
+
         </div>
 
         <div class="text-center mt-3">
             <span class="consult">
-                <?php echo htmlspecialchars($homePlan['additionalText'][0]['content']); ?>
-                <a href="<?php echo htmlspecialchars($homePlan['additionalText'][1]['url']); ?>" class="fw-bold">
-                    <?php echo htmlspecialchars($homePlan['additionalText'][1]['content']); ?>
+                Not sure which Offshore DMCA Ignored hosting plan is right for you? We can help.
+                <a href="" class="fw-bold">
+                    GET FREE CONSULTATION NOW
                 </a>
             </span>
         </div>
     </div>
-</div> -->
+</div>
 
 <?php
 include('./inc/technicalSpecification.php');
@@ -143,12 +224,91 @@ include('./inc/technicalSpecification.php');
 
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img
-                        src=""
-                        alt=""
-                        class="mb-4" />
-                    <h3 class="mb-3"></h3>
-                    <span class="mb-3"></span>
+                    <img src="/assets/feature/data-privacy.svg" alt="" class="mb-4" />
+                    <h3 class="mb-3">Data Privacy</h3>
+                    <span class="mb-3">Your website is completely safe in our hands because we understand the value of your privacy. That’s why we use smart features to ensure that you are untraceable on the internet.</span>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <img src="/assets/feature/flexibility-of-content.svg" alt="" class="mb-4" />
+                    <h3 class="mb-3">Flexibility of Content</h3>
+                    <span class="mb-3">Post as much DMCA ignored content on your website as you want without restriction or interruption from our side!</span>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <img src="/assets/feature/antiddos-protection.svg" alt="" class="mb-4" />
+                    <h3 class="mb-3">Anti-DDoS Protection</h3>
+                    <span class="mb-3">QloudHost uses Anti-DDoS equipped servers to ensure impenetrable security and maximum availability of your website on the internet.</span>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <img src="/assets/feature/full-root-access.svg" alt="" class="mb-4" />
+                    <h3 class="mb-3">Full Root Access</h3>
+                    <span class="mb-3">Enjoy complete control over your server resources and customize it as per preferences without any restrictions or interruptions.</span>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <img src="/assets/feature/weekly-backup.svg" alt="" class="mb-4" />
+                    <h3 class="mb-3">Weekly Backup</h3>
+                    <span class="mb-3">QloudHost has created a smart data backup feature to make your website’s data safer and more secure.</span>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <img src="/assets/feature/prioritized-support.svg" alt="" class="mb-4" />
+                    <h3 class="mb-3">Prioritized Support</h3>
+                    <span class="mb-3">Get instant solutions to your problem with a dedicated team of technical experts working 24*7 to support you at every step of your journey.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Installation Panel -->
+<div class="install-panel">
+    <div class="container py-5">
+        <div class="row panel-sec m-auto">
+            <!-- Left Section -->
+            <div class="col-md-7 d-flex">
+                <div class="m-auto">
+                    <h2 class="mb-4 w-100">Fast OS/Admin Panel Installation!</h2>
+                    <p class="planHead-con w-100 mb-4">No matter! Whether you wish to work with Linux, Windows, Cent OS, Debian, or any other popular OS, get it installed on your server with just a few clicks. In addition, our DMCA Ignored VPS Hosting is compatible with all the control panels available in the market, so you can manage your website files with full control!</p>
+                    <a href="#explore" class="smooth-scroll">
+                        <button class="start-now-btn mb-4">
+                            Get Started Now
+                            <i class="ms-4 fa fa-arrow-right"></i>
+                        </button>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Right Section -->
+            <div class="col-md-5">
+                <div class="d-flex flex-column align-items-center gap-3 panel-item">
+                    <div class="panel-opt">
+                        <img src="/assets/icon/cPanel.png" alt="icon" class="h-100" />
+                        <p>cPanel</p>
+                    </div>
+                    <div class="panel-opt">
+                        <img src="/assets/icon/directAdmin.png" alt="icon" class="h-100" />
+                        <p>DirectAdmin</p>
+                    </div>
+                    <div class="panel-opt">
+                        <img src="/assets/icon/cyberPanel.png" alt="icon" class="h-100" />
+                        <p>CyberPanel</p>
+                    </div>
+                    <div class="panel-opt">
+                        <img src="/assets/icon/ubuntu.png" alt="icon" class="h-100" />
+                        <p>Ubuntu</p>
+                    </div>
+                    <div class="panel-opt">
+                        <img src="/assets/icon/debain.png" alt="icon" class="h-100" />
+                        <p>Debian</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -156,13 +316,83 @@ include('./inc/technicalSpecification.php');
 </div>
 
 
-<?php
-include('./inc/installationPanel.php');
-?>
-
-<?php
-include('./inc/qloudhostServices.php');
-?>
+<!-- QloudHost Services -->
+<div class="container my-5 qloudService-section">
+    <h2 class="text-center mb-3 m-auto">Why Choose QloudHost for Your DMCA Ignored Hosting Needs?</h2>
+    <p class="text-center planHead-con m-auto mb-5">Experience our superior support, robust infrastructure, and unmatched reliability. We are the trusted choice for DMCA Ignored critical websites and apps. Count on us to deliver excellence every step of the way. Join our satisfied customers today!</p>
+    <div class="row mt-4 justify-content-center">
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="/assets/feature/hosted-in-netherlands.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Hosted in Netherlands
+                            </div>
+                            <div class="card-text service-text mb-3">
+                            With our DMCA Ignored Hosting, we offer top-notch security and privacy for your website on the internet. Our carefully chosen data centers in the Netherlands ensure that your site stays safe and private, while also allowing you to bypass country-specific restrictions.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="/assets/feature/ssd.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Fastest SSD Servers
+                            </div>
+                            <div class="card-text service-text mb-3">
+                            Experience lightning-fast performance and boost your website’s rankings and conversion rates with our NVMe SSD drive storage! Rest assured, we only use top-of-the-line industry-standard equipment to power our servers, guaranteeing quality service for our valued clients.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="/assets/feature/free-website-migration.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Free Website Migration
+                            </div>
+                            <div class="card-text service-text mb-3">
+                            If you already have a website, let us make your life easier by transferring it for free! Don’t worry if you’ve had a bad experience with your previous service provider, our dedicated team of technical experts can migrate your website to quality services without any data loss. Just ask us how!
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="/assets/feature/money-back-guarantee.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Money-Back Guarantee
+                            </div>
+                            <div class="card-text service-text mb-3">
+                            We understand how important it is to invest your hard-earned money wisely. That’s why we offer a 14-day money-back guarantee on our high-speed hosting service – so you can try it out completely risk-free! Choose us with confidence and experience the difference!
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="/assets/feature/uptime.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">99.9% Uptime Commitment
+                            </div>
+                            <div class="card-text service-text mb-3">
+                            Our DMCA Ignored Hosting guarantees an impressive 99.9% uptime, thanks to our solid infrastructure & enterprise-grade servers, strict security protocols, and industry-leading hardware and software components. Trust us to meet all of your hosting needs and exceed your expectations!
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
 
 <div class="container blog-section my-5">
     <header class="text-center mb-5">
