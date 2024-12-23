@@ -8,7 +8,7 @@
     "button1Link": "#explore",
     "button2Text": "Explore Features",
     "button2Link": "",
-    "imageSrc": "/assets/Frame/home-dmca-ignored-hosting.webp",
+    "imageSrc": "../../assets/img/Frame/home-dmca-ignored-hosting.webp",
     "moneyBackText": "<LuShieldCheck /> 14-Day Money-Back Guarantee",
     "options": [
       "NVMe SSD Drive",
