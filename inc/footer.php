@@ -85,7 +85,7 @@
                                 </li>
                                 <li >
 
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='dmca-ignored-dedicated-servers.php' class="text-light text-decoration-none footer-menu">
                                     DMCA Ignored Dedicated Servers
                                     </a>
                                 </li>
