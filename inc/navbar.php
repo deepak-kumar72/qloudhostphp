@@ -80,7 +80,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="offshore-web-hosting.php">Offshore Hosting</a></li>
-                                    <li><a class="dropdown-item" href="/offshore-wordpress-hosting/">Offshore WordPress</a></li>
+                                    <li><a class="dropdown-item" href="offshore-wordpress-hosting.php">Offshore WordPress</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown pe-4">
