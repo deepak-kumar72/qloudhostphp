@@ -224,42 +224,42 @@ include('./inc/technicalSpecification.php');
 
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/data-privacy.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/data-privacy.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Data Privacy</h3>
                     <span class="mb-3">Your website is completely safe in our hands because we understand the value of your privacy. That’s why we use smart features to ensure that you are untraceable on the internet.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/flexibility-of-content.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/flexibility-of-content.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Flexibility of Content</h3>
                     <span class="mb-3">Post as much DMCA ignored content on your website as you want without restriction or interruption from our side!</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/antiddos-protection.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/antiddos-protection.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Anti-DDoS Protection</h3>
                     <span class="mb-3">QloudHost uses Anti-DDoS equipped servers to ensure impenetrable security and maximum availability of your website on the internet.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/full-root-access.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/full-root-access.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Full Root Access</h3>
                     <span class="mb-3">Enjoy complete control over your server resources and customize it as per preferences without any restrictions or interruptions.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/weekly-backup.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/weekly-backup.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Weekly Backup</h3>
                     <span class="mb-3">QloudHost has created a smart data backup feature to make your website’s data safer and more secure.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/prioritized-support.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/prioritized-support.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Prioritized Support</h3>
                     <span class="mb-3">Get instant solutions to your problem with a dedicated team of technical experts working 24*7 to support you at every step of your journey.</span>
                 </div>
@@ -290,23 +290,23 @@ include('./inc/technicalSpecification.php');
             <div class="col-md-5">
                 <div class="d-flex flex-column align-items-center gap-3 panel-item">
                     <div class="panel-opt">
-                        <img src="/assets/icon/cPanel.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/cPanel.png" alt="icon" class="h-100" />
                         <p>cPanel</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/directAdmin.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/directAdmin.png" alt="icon" class="h-100" />
                         <p>DirectAdmin</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/cyberPanel.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/cyberPanel.png" alt="icon" class="h-100" />
                         <p>CyberPanel</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/ubuntu.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/ubuntu.png" alt="icon" class="h-100" />
                         <p>Ubuntu</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/debain.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/debain.png" alt="icon" class="h-100" />
                         <p>Debian</p>
                     </div>
                 </div>
@@ -324,7 +324,7 @@ include('./inc/technicalSpecification.php');
             <div class="col-12 col-md-6 col-lg-4 mb-4">
                 <div class="card service-card-body">
                     <div class="p-3">
-                        <img src="/assets/feature/hosted-in-netherlands.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <img src="./assets/img/feature/hosted-in-netherlands.svg" alt=""  class="mb-3 qloudService-img"/>
                         <div class="qloudservice-desc">
                             <div class="service-title mb-2">Hosted in Netherlands
                             </div>
@@ -338,7 +338,7 @@ include('./inc/technicalSpecification.php');
             <div class="col-12 col-md-6 col-lg-4 mb-4">
                 <div class="card service-card-body">
                     <div class="p-3">
-                        <img src="/assets/feature/ssd.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <img src="./assets/img/feature/ssd.svg" alt=""  class="mb-3 qloudService-img"/>
                         <div class="qloudservice-desc">
                             <div class="service-title mb-2">Fastest SSD Servers
                             </div>
@@ -352,7 +352,7 @@ include('./inc/technicalSpecification.php');
             <div class="col-12 col-md-6 col-lg-4 mb-4">
                 <div class="card service-card-body">
                     <div class="p-3">
-                        <img src="/assets/feature/free-website-migration.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <img src="./assets/img/feature/free-website-migration.svg" alt=""  class="mb-3 qloudService-img"/>
                         <div class="qloudservice-desc">
                             <div class="service-title mb-2">Free Website Migration
                             </div>
@@ -366,7 +366,7 @@ include('./inc/technicalSpecification.php');
             <div class="col-12 col-md-6 col-lg-4 mb-4">
                 <div class="card service-card-body">
                     <div class="p-3">
-                        <img src="/assets/feature/money-back-guarantee.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <img src="./assets/img/feature/money-back-guarantee.svg" alt=""  class="mb-3 qloudService-img"/>
                         <div class="qloudservice-desc">
                             <div class="service-title mb-2">Money-Back Guarantee
                             </div>
@@ -380,7 +380,7 @@ include('./inc/technicalSpecification.php');
             <div class="col-12 col-md-6 col-lg-4 mb-4">
                 <div class="card service-card-body">
                     <div class="p-3">
-                        <img src="/assets/feature/uptime.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <img src="./assets/img/feature/uptime.svg" alt=""  class="mb-3 qloudService-img"/>
                         <div class="qloudservice-desc">
                             <div class="service-title mb-2">99.9% Uptime Commitment
                             </div>
@@ -408,7 +408,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-md-5 mb-4">
             <div class="card blog-card">
                 <img
-                    src='/assets/blogImg1.jpg'
+                    src='./assets/img/blogImg1.jpg'
                     class="card-img-top mb-2 h-100"
                     alt='Discover Our Blog'
                     width={1000}
@@ -431,7 +431,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-md-5 order-md-2 mb-4">
             <div class="card blog-card">
                 <img
-                    src='/assets/blogImg2.jpg'
+                    src='./assets/img/blogImg2.jpg'
                     class="card-img-top mb-2 h-100"
                     alt='Discover Our Blog'
                     width={1000}
