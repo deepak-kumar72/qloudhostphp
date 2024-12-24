@@ -14,8 +14,8 @@ include('./inc/navbar.php');
           </div>
           <div class="col-md-6 ">
               <img
-                src=""
-                alt="frame"
+                src="./assets/img/Frame/heroImg_refund.webp"
+                alt="Refund Policy"
                 class="hero-frame"   
               />
           </div>
@@ -103,31 +103,31 @@ include('./inc/navbar.php');
         </ol>
         <h4>Products available for refund</h4>
         <ol class="content-sec-list">
-          <li><i class="fa-solid fa-check content-opt"></i>Shared Hosting</li>
-          <li><i class="fa-solid fa-check content-opt"></i>WordPress Hosting</li>
-          <li><i class="fa-solid fa-check content-opt"></i>VPS Server</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Hardware Failure</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Shared Hosting</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>WordPress Hosting</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>VPS Server</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Hardware Failure</li>
         </ol>
         <h4>Products not available for refund</h4>
         <ol class="content-sec-list">
-          <li><i class="fa-solid fa-check content-opt"></i>Offshore Dedicated Servers</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Offshore Streaming Servers</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Offshore Video Hosting</li>
-          <li><i class="fa-solid fa-check content-opt"></i>DMCA Ignored Dedicated Server</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Netherlands Offshore Dedicated Server</li>
-          <li><i class="fa-solid fa-check content-opt"></i>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Offshore Dedicated Servers</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Offshore Streaming Servers</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Offshore Video Hosting</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>DMCA Ignored Dedicated Server</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Netherlands Offshore Dedicated Server</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>
             Product Licence (for example- control panel licence, Softaculous and
             many more)
           </li>
-          <li><i class="fa-solid fa-check content-opt"></i>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>
             The refund will not be initiated for any add-on added to your
             account, such as Addon IP, storage, or bandwidth and etc.
           </li>
         </ol>
         <h4>Products not associated with QloudHost refund policy</h4>
         <ol class="content-sec-list">
-          <li><i class="fa-solid fa-check content-opt"></i>Adults Servers</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Privacy Protection</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Adults Servers</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Privacy Protection</li>
         </ol>
         <h4>Refund methods</h4>
         <ol class="content-sec-list">
@@ -156,9 +156,9 @@ include('./inc/navbar.php');
           modes
         </p>
         <ol class="content-sec-list">
-          <li><i class="fa-solid fa-check content-opt"></i>You can write an email to QloudHost</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Cancellation can also be made via Ticket</li>
-          <li><i class="fa-solid fa-check content-opt"></i>From the client area of the website</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>You can write an email to QloudHost</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Cancellation can also be made via Ticket</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>From the client area of the website</li>
         </ol>
       </div>
     </div>

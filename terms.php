@@ -16,8 +16,8 @@ include('./inc/navbar.php');
           <div class="col-md-6 ">
             
               <img
-                src=""
-                alt="frame"
+                src="./assets/img/Frame/heroImg-services.webp"
+                alt="Terms of services"
                 class="hero-frame"
               />
           </div>
@@ -90,14 +90,12 @@ include('./inc/navbar.php');
         </p>
         <h5>The Non-acceptable list includes the followings:</h5>
         <ol class="content-sec-list">
-          <li><i class="fa-solid fa-check content-opt"></i>Child pornography</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Illicit activities</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Bulk email-related products</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Phishing website or any malicious link containing a website</li>
-          <li><i class="fa-solid fa-check content-opt"></i>Fraudulent, Ponzi schemes or other scamming sites</li>
-          <li><i class="fa-solid fa-check content-opt"></i>
-            Illegal Markets, Terrorsit-themed Activities, Realistic Depictions
-            of turture, Necrophilia, bestiality or related content.
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Child pornography</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Illicit activities</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Bulk email-related products</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Phishing website or any malicious link containing a website</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Fraudulent, Ponzi schemes or other scamming sites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Illegal Markets, Terrorsit-themed Activities, Realistic Depictions of turture, Necrophilia, bestiality or related content.
           </li>
         </ol>
         <h5>Vulnerabilities and updates</h5>
@@ -112,13 +110,13 @@ include('./inc/navbar.php');
         </p>
         <h5>Fees and payment</h5>
         <ol class="content-sec-list">
-          <li><i class="fa-solid fa-check content-opt"></i>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>
             Customers will pay the fees according to the plans and terms listed
             in the order form or in the services, including all the supplements,
             add–ons and emergency services. In addition, they also agree to the
             below-mentioned conditions.
           </li>
-          <li><i class="fa-solid fa-check content-opt"></i>Coupon and Promo Code will only Work on Shared and VPS Plans</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Coupon and Promo Code will only Work on Shared and VPS Plans</li>
         </ol>
         <h5>Invoice notification</h5>
         <p>

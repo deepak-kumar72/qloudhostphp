@@ -10,7 +10,7 @@
                 <div class="testimonial-slider">
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial1.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial1.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">Peters</h3>
                                     <p class="testimonial-role">Qloud Host is the best Offshore hosting…</p>
@@ -20,7 +20,7 @@
                         </div>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial2.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial2.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">Vihari Anand</h3>
                                     <p class="testimonial-role">qloud host is the best hosting service…</p>
@@ -30,7 +30,7 @@
                         </div>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial3.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial3.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">With Niolex</h3>
                                     <p class="testimonial-role">These guys are excellent</p>
@@ -40,7 +40,7 @@
                         </div>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial4.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial4.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">Joram Dymisster</h3>
                                     <p class="testimonial-role">BEST HOSTING SERVICE</p>
@@ -50,7 +50,7 @@
                         </div>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial5.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial5.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">Adam Johnson</h3>
                                     <p class="testimonial-role">Qloud host is the best</p>
@@ -60,7 +60,7 @@
                         </div>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial6.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial6.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">Lucifer XVI</h3>
                                     <p class="testimonial-role">Definitely would suggest to other friends of mine who have their own companies</p>
@@ -70,7 +70,7 @@
                         </div>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial7.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial7.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">ADITYA KUMAR</h3>
                                     <p class="testimonial-role">Great server speed & affordable</p>
@@ -80,7 +80,7 @@
                         </div>
                         <div class="testimonial-content testimonial-card p-4">
                             <div class="d-flex mb-3">
-                                <img src="/assets/testimonial8.png" alt="" class="me-3 testimonial-img" />
+                                <img src="./assets/img/testimonial8.png" alt="" class="me-3 testimonial-img" />
                                 <div>
                                     <h3 class="testimonial-name">With Niolex</h3>
                                     <p class="testimonial-role">These guys are excellent</p>

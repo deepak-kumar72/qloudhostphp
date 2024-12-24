@@ -16,8 +16,8 @@ include('./inc/navbar.php');
           <div class="col-md-6 ">
             
               <img
-                src=""
-                alt="frame"
+                src="./assets/img/Frame/heroImg_fair-usage.webp"
+                alt="Fair Usage Policy"
                 class="hero-frame" 
               />
           </div>
@@ -41,38 +41,38 @@ include('./inc/navbar.php');
         </p>
         <h5>Our fair usage policy restricts you to the following activities:</h5>
         <ol class="content-sec-list">
-          <li><FaCheck class="me-2 content-opt"/>Adult content involving real violence.</li>
-          <li><FaCheck class="me-2 content-opt"/>
+          
+          <li><i class="fa-solid fa-check content-opt me-2"></i>
             Any content that includes violence on animals ( any creatures )
           </li>
-          <li><FaCheck class="me-2 content-opt"/>Child pornography</li>
-          <li><FaCheck class="me-2 content-opt"/>Any explicit content that involves underage nudity.</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Child pornography</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Any explicit content that involves underage nudity.</li>
         </ol>
         <h5>
           Other than the adult website, we restrict the following activities:
         </h5>
         <ol class="content-sec-list">
-          <li><FaCheck class="me-2 content-opt"/>Ponzi scheme based websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Scamming websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Pharmaceutical websites without an appropriate license</li>
-          <li><FaCheck class="me-2 content-opt"/>Mass mailing websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Phishing websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Proxy or reverse websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Illegal product-containing websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Botnet controllers or involved websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Sites containing any malicious links</li>
-          <li><FaCheck class="me-2 content-opt"/>DDoS attack-abled websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Trojan-containing websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Malicious Script containers</li>
-          <li><FaCheck class="me-2 content-opt"/>Any act of terrorism via a website</li>
-          <li><FaCheck class="me-2 content-opt"/>Vulnerability scanners</li>
-          <li><FaCheck class="me-2 content-opt"/>SIP scanners</li>
-          <li><FaCheck class="me-2 content-opt"/>Any forex related websites</li>
-          <li><FaCheck class="me-2 content-opt"/>Sales, distribution or promotion of pirated products</li>
-          <li><FaCheck class="me-2 content-opt"/>Password guessing bots, tools or any kind of generators</li>
-          <li><FaCheck class="me-2 content-opt"/>Any activity that led to your IP block</li>
-          <li><FaCheck class="me-2 content-opt"/>IP spoofing tools containers</li>
-          <li><FaCheck class="me-2 content-opt"/>Any other activities that violates our any policy</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Ponzi scheme based websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Scamming websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Pharmaceutical websites without an appropriate license</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Mass mailing websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Phishing websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Proxy or reverse websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Illegal product-containing websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Botnet controllers or involved websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Sites containing any malicious links</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>DDoS attack-abled websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Trojan-containing websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Malicious Script containers</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Any act of terrorism via a website</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Vulnerability scanners</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>SIP scanners</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Any forex related websites</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Sales, distribution or promotion of pirated products</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Password guessing bots, tools or any kind of generators</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Any activity that led to your IP block</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>IP spoofing tools containers</li>
+          <li><i class="fa-solid fa-check content-opt me-2"></i>Any other activities that violates our any policy</li>
         </ol>
         <p>
           Usage of our services means the customer agrees to all the points
