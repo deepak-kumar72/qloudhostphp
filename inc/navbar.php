@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,7 +35,7 @@
 <div class="container-fluid">
             <div class="row text-center p-2 top-content">
                 <span>
-                    <Image src="./assets/img/fireImage.png"  alt="fire"  class="me-2" />
+                    <Image src="../assets/img/fireImage.png"  alt="fire"  class="me-2" />
                     Save 15% on Offshore DMCA Ignored VPS + 1 Month Free on Annual VPS-
                     <a href="" class="link-light">Grab Now!</a>
                 </span>
@@ -88,7 +89,7 @@
                                     VPS <i class="fas fa-chevron-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/offshore-vps-hosting/">Offshore VPS</a></li>
+                                    <li><a class="dropdown-item" href="offshore-vps-hosting/">Offshore VPS</a></li>
                                     <li><a class="dropdown-item" href="/offshore-vps-hosting/windows-rdp/">Offshore Windows VPS</a></li>
                                 </ul>
                             </li>
