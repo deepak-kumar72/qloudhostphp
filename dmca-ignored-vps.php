@@ -80,7 +80,9 @@ include('./inc/navbar.php');
 </div>
 
 
-
+<?php
+include('./inc/chatNow.php');
+?>
 <?php
 include('./inc/footer.php');
 ?>
