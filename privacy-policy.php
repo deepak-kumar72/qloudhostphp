@@ -16,8 +16,8 @@ include('./inc/navbar.php');
             <div class="col-md-6 ">
 
                 <img
-                    src=""
-                    alt="frame"
+                    src="./assets/img/Frame/heroImg_privacy-policy.webp"
+                    alt="Privacy Policy"
                     class="hero-frame" />
             </div>
         </div>
@@ -43,7 +43,7 @@ include('./inc/navbar.php');
         that you are allowing us to collect some of your identifiable data, such
         as your Email address and phone number. In addition, we may also collect
         some of the demographic-related information that may not be unique to
-        you, such as your postcode, age, gender and some unique information.{" "}
+        you, such as your postcode, age, gender and some unique information.
       </p>
       <p>
         We will collect such information only when the users voluntarily submit
@@ -62,16 +62,16 @@ include('./inc/navbar.php');
         We will collect and use our user information for the following purposes:
       </p>
       <ul class="content-sec-list">
-        <li>To improve our operations.</li>
-        <li>Deliver the product and services.</li>
-        <li>Communicate with the user.</li>
-        <li>Improve the quality of our products</li>
-        <li>Get more reach through you.</li>
-        <li>To perform surveys and promotions.</li>
-        <li>Deal with your enquiry and complaints, request and tickets.</li>
-        <li>Conduct research and development.</li>
-        <li>Process your refund and payments.</li>
-        <li>To maintain processing, invoicing, products and services.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>To improve our operations.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>Deliver the product and services.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>Communicate with the user.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>Improve the quality of our products</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>Get more reach through you.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>To perform surveys and promotions.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>Deal with your enquiry and complaints, request and tickets.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>Conduct research and development.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>Process your refund and payments.</li>
+        <li><i class="fa-solid fa-check content-opt me-2"></i>To maintain processing, invoicing, products and services.</li>
       </ul>
       
       
