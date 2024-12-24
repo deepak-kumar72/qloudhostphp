@@ -14,8 +14,8 @@ include('./inc/navbar.php');
           </div>
           <div class="col-md-6 ">
               <img
-                src=""
-                alt="frame"
+                src="./assets/img/Frame/heroImg_contact-us.png"
+                alt="CONTACT OUR SUPPORT"
                 class="hero-frame"   
               />
           </div>
@@ -27,12 +27,12 @@ include('./inc/navbar.php');
     <div class="contact-banner">
       <div class="container py-5">
         <h2 class="text-center mb-5 m-auto">
-          For DMCA Ignored Offshore Hosting Support
+          Technical Support
         </h2>
         <div class="row gy-4 contact-container m-auto mb-5">
           <div class="col-12 col-md-6 col-lg-4 contact-method mb-3">
             <div class="con-support">
-            <div><BiSupport class="support-icon"/></div>
+            <div><i class="fa-solid fa-headset support-icon"></i></div>
               <h4>Technical Support</h4>
               <p class="mb-4">
                 Get quick solutions to all your hosting concerns through our
@@ -40,10 +40,9 @@ include('./inc/navbar.php');
               </p>
             
                 <p class="mb-2">
-                  <FaCheck class="me-2 content-opt" /> 24*7 Support
-                </p><p class="mb-5 support-mail">
-                
-                  <FaCheck class="me-2 " />
+                <i class="fa-solid fa-check content-opt me-2"></i> 24*7 Support</p>
+                <p class="mb-5"> 
+                <i class="fa-solid fa-check content-opt me-2"></i>
                   support@qloudhost.com
                </p><br/>
 
@@ -72,7 +71,7 @@ include('./inc/navbar.php');
                    
                   </div>
                   <div>
-                    <img src='/assets/sales.svg' alt="sales" class="w-50" />
+                    <img src='./assets/img/sales.svg' alt="sales" class="w-50" />
                   </div>
                   </div>
                 </div>
@@ -121,7 +120,7 @@ include('./inc/navbar.php');
             </div>
           </div>
           <div class="col-md-4 text-center">
-            <img src='/assets/looking-for-more.svg' alt="looking more" class="w-75" />
+            <img src='./assets/img/looking-for-more.svg' alt="looking more" class="w-75" />
 
            
           </div>

@@ -211,42 +211,42 @@ include('./inc/technicalSpecification.php');
 
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/data-privacy.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/data-privacy.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Data Privacy</h3>
                     <span class="mb-3">Your website is completely safe in our hands because we understand the value of your privacy. That’s why we use smart features to ensure that you are untraceable on the internet.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/flexibility-of-content.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/flexibility-of-content.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Flexibility of Content</h3>
                     <span class="mb-3">Post as much DMCA ignored content on your website as you want without restriction or interruption from our side!</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/antiddos-protection.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/antiddos-protection.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Anti-DDoS Protection</h3>
                     <span class="mb-3">QloudHost uses Anti-DDoS equipped servers to ensure impenetrable security and maximum availability of your website on the internet.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/full-root-access.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/full-root-access.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Full Root Access</h3>
                     <span class="mb-3">Enjoy complete control over your server resources and customize it as per preferences without any restrictions or interruptions.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/weekly-backup.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/weekly-backup.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Weekly Backup</h3>
                     <span class="mb-3">QloudHost has created a smart data backup feature to make your website’s data safer and more secure.</span>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="feature-card">
-                    <img src="/assets/feature/prioritized-support.svg" alt="" class="mb-4" />
+                    <img src="./assets/img/feature/prioritized-support.svg" alt="" class="mb-4" />
                     <h3 class="mb-3">Prioritized Support</h3>
                     <span class="mb-3">Get instant solutions to your problem with a dedicated team of technical experts working 24*7 to support you at every step of your journey.</span>
                 </div>
@@ -277,23 +277,23 @@ include('./inc/technicalSpecification.php');
             <div class="col-md-5">
                 <div class="d-flex flex-column align-items-center gap-3 panel-item">
                     <div class="panel-opt">
-                        <img src="/assets/icon/cPanel.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/cPanel.png" alt="icon" class="h-100" />
                         <p>cPanel</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/directAdmin.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/directAdmin.png" alt="icon" class="h-100" />
                         <p>DirectAdmin</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/cyberPanel.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/cyberPanel.png" alt="icon" class="h-100" />
                         <p>CyberPanel</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/ubuntu.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/ubuntu.png" alt="icon" class="h-100" />
                         <p>Ubuntu</p>
                     </div>
                     <div class="panel-opt">
-                        <img src="/assets/icon/debain.png" alt="icon" class="h-100" />
+                        <img src="./assets/img/icon/debain.png" alt="icon" class="h-100" />
                         <p>Debian</p>
                     </div>
                 </div>
@@ -308,6 +308,7 @@ include('./inc/technicalSpecification.php');
     <h2 class="text-center mb-3 m-auto">Why Choose QloudHost for Your DMCA Ignored Hosting Needs?</h2>
     <p class="text-center planHead-con m-auto mb-5">Experience our superior support, robust infrastructure, and unmatched reliability. We are the trusted choice for DMCA Ignored critical websites and apps. Count on us to deliver excellence every step of the way. Join our satisfied customers today!</p>
     <div class="row mt-4 justify-content-center">
+<<<<<<< HEAD
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
@@ -316,11 +317,22 @@ include('./inc/technicalSpecification.php');
                         <div class="service-title mb-2">Hosted in Netherlands
                         </div>
                         <div class="card-text service-text mb-3">
+=======
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="./assets/img/feature/hosted-in-netherlands.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Hosted in Netherlands
+                            </div>
+                            <div class="card-text service-text mb-3">
+>>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             With our DMCA Ignored Hosting, we offer top-notch security and privacy for your website on the internet. Our carefully chosen data centers in the Netherlands ensure that your site stays safe and private, while also allowing you to bypass country-specific restrictions.
                         </div>
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
@@ -330,11 +342,22 @@ include('./inc/technicalSpecification.php');
                         <div class="service-title mb-2">Fastest SSD Servers
                         </div>
                         <div class="card-text service-text mb-3">
+=======
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="./assets/img/feature/ssd.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Fastest SSD Servers
+                            </div>
+                            <div class="card-text service-text mb-3">
+>>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             Experience lightning-fast performance and boost your website’s rankings and conversion rates with our NVMe SSD drive storage! Rest assured, we only use top-of-the-line industry-standard equipment to power our servers, guaranteeing quality service for our valued clients.
                         </div>
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
@@ -344,11 +367,22 @@ include('./inc/technicalSpecification.php');
                         <div class="service-title mb-2">Free Website Migration
                         </div>
                         <div class="card-text service-text mb-3">
+=======
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="./assets/img/feature/free-website-migration.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Free Website Migration
+                            </div>
+                            <div class="card-text service-text mb-3">
+>>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             If you already have a website, let us make your life easier by transferring it for free! Don’t worry if you’ve had a bad experience with your previous service provider, our dedicated team of technical experts can migrate your website to quality services without any data loss. Just ask us how!
                         </div>
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
@@ -358,11 +392,22 @@ include('./inc/technicalSpecification.php');
                         <div class="service-title mb-2">Money-Back Guarantee
                         </div>
                         <div class="card-text service-text mb-3">
+=======
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="./assets/img/feature/money-back-guarantee.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">Money-Back Guarantee
+                            </div>
+                            <div class="card-text service-text mb-3">
+>>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             We understand how important it is to invest your hard-earned money wisely. That’s why we offer a 14-day money-back guarantee on our high-speed hosting service – so you can try it out completely risk-free! Choose us with confidence and experience the difference!
                         </div>
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
@@ -372,6 +417,16 @@ include('./inc/technicalSpecification.php');
                         <div class="service-title mb-2">99.9% Uptime Commitment
                         </div>
                         <div class="card-text service-text mb-3">
+=======
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card service-card-body">
+                    <div class="p-3">
+                        <img src="./assets/img/feature/uptime.svg" alt=""  class="mb-3 qloudService-img"/>
+                        <div class="qloudservice-desc">
+                            <div class="service-title mb-2">99.9% Uptime Commitment
+                            </div>
+                            <div class="card-text service-text mb-3">
+>>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             Our DMCA Ignored Hosting guarantees an impressive 99.9% uptime, thanks to our solid infrastructure & enterprise-grade servers, strict security protocols, and industry-leading hardware and software components. Trust us to meet all of your hosting needs and exceed your expectations!
                         </div>
                     </div>
@@ -446,7 +501,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-md-5 mb-4">
             <div class="card blog-card">
                 <img
-                    src='/assets/blogImg1.jpg'
+                    src='./assets/img/blogImg1.jpg'
                     class="card-img-top mb-2 h-100"
                     alt='Discover Our Blog'
                     width={1000}
@@ -469,7 +524,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-md-5 order-md-2 mb-4">
             <div class="card blog-card">
                 <img
-                    src='/assets/blogImg2.jpg'
+                    src='./assets/img/blogImg2.jpg'
                     class="card-img-top mb-2 h-100"
                     alt='Discover Our Blog' />
 

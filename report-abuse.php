@@ -14,8 +14,8 @@ include('./inc/navbar.php');
             </div>
             <div class="col-md-6 ">
                 <img
-                    src=""
-                    alt="frame"
+                    src="./assets/img/Frame/heroImg-report-abuse.webp"
+                    alt="Report Abuse"
                     class="hero-frame" />
             </div>
         </div>

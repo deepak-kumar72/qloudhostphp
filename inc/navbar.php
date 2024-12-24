@@ -35,7 +35,7 @@
 <div class="container-fluid">
             <div class="row text-center p-2 top-content">
                 <span>
-                    <Image src="../assets/img/fireImage.png"  alt="fire"  class="me-2" />
+                    <Image src="./assets/img/fireImage.png"  alt="fire"  class="me-2" />
                     Save 15% on Offshore DMCA Ignored VPS + 1 Month Free on Annual VPS-
                     <a href="" class="link-light">Grab Now!</a>
                 </span>

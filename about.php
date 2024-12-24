@@ -14,8 +14,8 @@ include('./inc/navbar.php');
             </div>
             <div class="col-md-6 ">
                 <img
-                    src=""
-                    alt="frame"
+                    src="./assets/img/Frame/about-us.png"
+                    alt="About QloudHost"
                     class="hero-frame" />
             </div>
         </div>
@@ -30,7 +30,7 @@ include('./inc/navbar.php');
 
         <div class="row align-items-center mb-5">
             <div class="col-md-6 text-center">
-                <img src='/assets/feature/about-2.webp' alt="about Feature" class="img-fluid" />
+                <img src="./assets/img/feature/about-2.png" alt="Hosting Privacy" class="img-fluid" />
             </div>
             <div class="col-md-6  about-sec">
                 <h2 class="">Hosting that Respects Your Privacy!</h2>
