@@ -308,125 +308,70 @@ include('./inc/technicalSpecification.php');
     <h2 class="text-center mb-3 m-auto">Why Choose QloudHost for Your DMCA Ignored Hosting Needs?</h2>
     <p class="text-center planHead-con m-auto mb-5">Experience our superior support, robust infrastructure, and unmatched reliability. We are the trusted choice for DMCA Ignored critical websites and apps. Count on us to deliver excellence every step of the way. Join our satisfied customers today!</p>
     <div class="row mt-4 justify-content-center">
-<<<<<<< HEAD
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/hosted-in-netherlands.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/feature/hosted-in-netherlands.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Hosted in Netherlands
                         </div>
                         <div class="card-text service-text mb-3">
-=======
-            <div class="col-12 col-md-6 col-lg-4 mb-4">
-                <div class="card service-card-body">
-                    <div class="p-3">
-                        <img src="./assets/img/feature/hosted-in-netherlands.svg" alt=""  class="mb-3 qloudService-img"/>
-                        <div class="qloudservice-desc">
-                            <div class="service-title mb-2">Hosted in Netherlands
-                            </div>
-                            <div class="card-text service-text mb-3">
->>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             With our DMCA Ignored Hosting, we offer top-notch security and privacy for your website on the internet. Our carefully chosen data centers in the Netherlands ensure that your site stays safe and private, while also allowing you to bypass country-specific restrictions.
                         </div>
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/ssd.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/feature/ssd.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Fastest SSD Servers
                         </div>
                         <div class="card-text service-text mb-3">
-=======
-            <div class="col-12 col-md-6 col-lg-4 mb-4">
-                <div class="card service-card-body">
-                    <div class="p-3">
-                        <img src="./assets/img/feature/ssd.svg" alt=""  class="mb-3 qloudService-img"/>
-                        <div class="qloudservice-desc">
-                            <div class="service-title mb-2">Fastest SSD Servers
-                            </div>
-                            <div class="card-text service-text mb-3">
->>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             Experience lightning-fast performance and boost your website’s rankings and conversion rates with our NVMe SSD drive storage! Rest assured, we only use top-of-the-line industry-standard equipment to power our servers, guaranteeing quality service for our valued clients.
                         </div>
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/free-website-migration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/feature/free-website-migration.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Free Website Migration
                         </div>
                         <div class="card-text service-text mb-3">
-=======
-            <div class="col-12 col-md-6 col-lg-4 mb-4">
-                <div class="card service-card-body">
-                    <div class="p-3">
-                        <img src="./assets/img/feature/free-website-migration.svg" alt=""  class="mb-3 qloudService-img"/>
-                        <div class="qloudservice-desc">
-                            <div class="service-title mb-2">Free Website Migration
-                            </div>
-                            <div class="card-text service-text mb-3">
->>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             If you already have a website, let us make your life easier by transferring it for free! Don’t worry if you’ve had a bad experience with your previous service provider, our dedicated team of technical experts can migrate your website to quality services without any data loss. Just ask us how!
                         </div>
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/money-back-guarantee.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/feature/money-back-guarantee.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Money-Back Guarantee
                         </div>
                         <div class="card-text service-text mb-3">
-=======
-            <div class="col-12 col-md-6 col-lg-4 mb-4">
-                <div class="card service-card-body">
-                    <div class="p-3">
-                        <img src="./assets/img/feature/money-back-guarantee.svg" alt=""  class="mb-3 qloudService-img"/>
-                        <div class="qloudservice-desc">
-                            <div class="service-title mb-2">Money-Back Guarantee
-                            </div>
-                            <div class="card-text service-text mb-3">
->>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             We understand how important it is to invest your hard-earned money wisely. That’s why we offer a 14-day money-back guarantee on our high-speed hosting service – so you can try it out completely risk-free! Choose us with confidence and experience the difference!
                         </div>
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
         </div>
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">99.9% Uptime Commitment
                         </div>
                         <div class="card-text service-text mb-3">
-=======
-            <div class="col-12 col-md-6 col-lg-4 mb-4">
-                <div class="card service-card-body">
-                    <div class="p-3">
-                        <img src="./assets/img/feature/uptime.svg" alt=""  class="mb-3 qloudService-img"/>
-                        <div class="qloudservice-desc">
-                            <div class="service-title mb-2">99.9% Uptime Commitment
-                            </div>
-                            <div class="card-text service-text mb-3">
->>>>>>> 13701bb286d4511252831130f810dedfc2b3f1e4
                             Our DMCA Ignored Hosting guarantees an impressive 99.9% uptime, thanks to our solid infrastructure & enterprise-grade servers, strict security protocols, and industry-leading hardware and software components. Trust us to meet all of your hosting needs and exceed your expectations!
                         </div>
                     </div>
