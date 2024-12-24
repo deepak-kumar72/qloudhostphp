@@ -1,20 +1,7 @@
 <?php
 include('./inc/navbar.php');
 ?>
-<!-- <?php
-        // Read JSON file
-        // $jsonData = file_get_contents('./assets/data/home.json');
-        // $data = json_decode($jsonData, true);
 
-        // // Extract hero component data
-        // $homePlan = $data['homePlan'];
-        // $plansData = $data['plansData'];
-        // $features1 = $data['featureshome'];
-        // $heading = $data['featureHeading']['Heading'];
-        // $subHeading = $data['featureHeading']['subHeading'];
-        // $features = $data['features'];
-        // 
-        ?> -->
 
 <div class="hero-container p-50">
     <div class="container">
@@ -29,19 +16,19 @@ include('./inc/navbar.php');
                     <p class="mb-4">Get the Best for your website with QloudHost’s DMCA Ignored hosting packages. Join over 5000+ customers who rely on us for a robust offshore DMCA Ignored server foundation.</p>
                     <div class="hero-options-container mb-4">
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>NVMe SSD Drive</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Privacy Protected</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Free Migration</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Free Migration</span>
                         </div>
                     </div>

@@ -60,6 +60,25 @@ include('./inc/navbar.php');
 </div>
 
 
+<div class="hosting-plan mb-5">
+    <div class=" plan-sec mt-5">
+        <h2 class="text-center m-auto mb-3">DMCA Ignored Dedicated Server Hosting Plans and Prices</h2>
+        <p class="text-center mb-5 planHead-con m-auto">DMCA Ignored dedicated servers offer the best performance and the highest level of security for any website or application. Invest in a dedicated server with no resource sharing and experience top-notch performance at an affordable price.
+            the cheapest price in the market.</p>
+
+
+        <?php
+        include('./inc/dedicatedPlan.php');
+        ?>
+
+        <div class="text-center mt-3">
+            <span class="consult">Looking for high-performance and custom resources? Our friendly
+                <a href="" class="fw-bold">support sales team</a> is here to help!
+                <a href="" class="fw-bold">Get in touch</a> with us today.
+            </span>
+        </div>
+    </div>
+</div>
 
 <?php
 include('./inc/footer.php');

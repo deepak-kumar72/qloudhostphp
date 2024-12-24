@@ -73,7 +73,7 @@
                                 </li>
                                 <li >
 
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='dmca-ignored-vps.php' class="text-light text-decoration-none footer-menu">
                                     DMCA Ignored VPS
                                     </a>
                                 </li>
@@ -149,22 +149,22 @@
                             <h5 class='menu-head'>Policies</h5>
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="privacy-policy.php" class="text-light text-decoration-none footer-menu">
                                     Privacy Policy
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="terms.php" class="text-light text-decoration-none footer-menu">
                                     Terms of Service
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="fair-usage-policy.php" class="text-light text-decoration-none footer-menu">
                                     Fair Usage Policy
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="refund.php" class="text-light text-decoration-none footer-menu">
                                     Refund Policy
                                     </a>
                                 </li>
@@ -191,7 +191,7 @@
                             <ul class="list-unstyled">
 
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="about.php" class="text-light text-decoration-none footer-menu">
                                     About QloudHost
                                     </a>
                                 </li>
@@ -201,7 +201,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="contact-us.php" class="text-light text-decoration-none footer-menu">
                                     Contact Us
                                     </a>
                                 </li>
@@ -211,7 +211,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="report-abuse.php" class="text-light text-decoration-none footer-menu">
                                     Abuse Report
                                     </a>
                                 </li>
