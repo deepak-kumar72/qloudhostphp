@@ -394,7 +394,7 @@ include('./inc/technicalSpecification.php');
                 <div class="card card-banner h-100 shadow-sm">
                     <div class='service-card d-flex p-4'>
                         <div class="mb-3 w-50">
-                            <img src="/assets/icon/web.png'" alt="" class='serviceCard-img' />
+                            <img src="./assets/img/icon/web.png" alt="New Website?" class="serviceCard-img" />
                         </div>
                         <div>
                             <div class='card-title'>New Website?</div>
@@ -413,7 +413,7 @@ include('./inc/technicalSpecification.php');
                 <div class="card card-banner h-100 shadow-sm">
                     <div class='service-card d-flex p-4'>
                         <div class="mb-3 w-50">
-                            <img src="/assets/icon/migration.png" alt="" class='serviceCard-img' />
+                            <img src="./assets/img/icon/migration.png" alt="Migration?" class='serviceCard-img' />
                         </div>
                         <div>
                             <div class='card-title'>Migration?</div>

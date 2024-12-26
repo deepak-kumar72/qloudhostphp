@@ -8,7 +8,8 @@ include('./inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
+                   
                         Buy Offshore Web Hosting
                     </h4>
                     <h1 class="mb-4">Best Offshore Web Hosting</h1>
@@ -34,7 +35,7 @@ include('./inc/navbar.php');
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -624,7 +625,7 @@ include('./inc/technicalSpecification.php');
 
         <div class="row align-items-center mb-5">
             <div class="col-md-6 mb-4 text-center">
-                <img src='/assets/feature/simple-affordable.webp' alt="Simple, Affordable, Hosting You Can Trust" class="img-fluid m-auto" />
+                <img src='./assets/img/feature/simple-affordable.webp' alt="Simple, Affordable, Hosting You Can Trust" class="img-fluid m-auto" />
             </div>
             <div class="col-md-6 feature-element-sec">
                 <h2 class='w-100 mb-3'>Simple, Affordable, Hosting You Can Trust</h2>
@@ -635,10 +636,8 @@ include('./inc/technicalSpecification.php');
                 </p>
                 <a to="explore">
                     <button class="btn start-now-btn mt-3">
-
                         Get Started Now
-                        <FaArrowRight class="ms-2" />
-
+                        <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>
                     </button>
                 </a>
             </div>
@@ -647,7 +646,7 @@ include('./inc/technicalSpecification.php');
 
         <div class="row align-items-center mb-5">
             <div class="col-md-6 order-md-2 mb-3 text-center">
-                <img src='/assets/feature/make-your-website.webp' alt="Make Your Website Faster with LiteSpeed" class="img-fluid" />
+                <img src='./assets/img/feature/make-your-website.webp' alt="Make Your Website Faster with LiteSpeed" class="img-fluid" />
             </div>
             <div class="col-md-6 order-md-1 feature-element-sec">
                 <h2 class='mb-3 w-100'>Make Your Website Faster with LiteSpeed</h2>
@@ -662,7 +661,7 @@ include('./inc/technicalSpecification.php');
 
         <div class="row align-items-center mb-5">
             <div class="col-md-6 mb-4 text-center">
-                <img src='/assets/feature/free-migration.webp' alt="Free Migration Services" class="img-fluid m-auto" />
+                <img src='./assets/img/feature/free-migration.webp' alt="Free Migration Services" class="img-fluid m-auto" />
             </div>
             <div class="col-md-6 feature-element-sec">
                 <h2 class='w-100 mb-3'>Free Migration Services</h2>
@@ -675,8 +674,7 @@ include('./inc/technicalSpecification.php');
                 </p><a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2">
                     <button class="btn start-now-btn mt-3">
                         Get Started Now
-                        <FaArrowRight class="ms-2" />
-
+                        <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>
                     </button></a>
             </div>
         </div>
@@ -692,7 +690,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/one-click-installs.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/one-click-installs.svg" alt="One-click Installs" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">One-click Installs
                         </div>
@@ -708,7 +706,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/weekly-backup_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/weekly-backup_1.svg" alt="Weekly Backups" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Weekly Backups
                         </div>
@@ -722,7 +720,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/powered-by-direct-admin.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/powered-by-direct-admin.svg" alt="Powered by DirectAdmin" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Powered by DirectAdmin
                         </div>
@@ -736,7 +734,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/feature/uptime.svg" alt="99.9% uptime guaranteed" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">99.9% uptime guaranteed
                         </div>
@@ -750,7 +748,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/lightning-fast-storage.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/lightning-fast-storage.svg" alt="Lightning-Fast Storage" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Lightning-Fast Storage
                         </div>
@@ -764,7 +762,7 @@ include('./inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/privacy-protection_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/privacy-protection_1.svg" alt="100% Privacy Protection" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">100% Privacy Protection
                         </div>
