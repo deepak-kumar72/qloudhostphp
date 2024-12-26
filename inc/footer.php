@@ -2,7 +2,7 @@
     <div class="container-fluid footer-menu-list ps-5 pe-1 ">
         <div class="row">
             <div class=" col-lg-3 mb-4">
-                <IMG src="./assets/img/logo.svg" alt='logo' class='mb-4 footer-logo' />
+                <IMG src="../assets/img/logo.svg" alt='logo' class='mb-4 footer-logo' />
                 <p class='footer-con'>
                     Host your website with the best Offshore hosting server at QloudHost and get full privacy assurance. We understand the value of your data privacy that’s why we provide you services with impenetrable security!
                 </p>
@@ -239,7 +239,7 @@
                 </div>
 
                 <div class='col-lg-6 col-12 pay-optionimg'>
-                    <Image src='./assets/img/pay_img.png' alt='payment_option' width={1000}
+                    <Image src='../assets/img/pay_img.png' alt='payment_option' width={1000}
                         height={1000} class='h-100 w-75' />
 
                 </div>

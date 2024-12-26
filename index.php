@@ -9,7 +9,7 @@ include('./inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
                         #1 DMCA Ignored Hosting
                     </h4>
                     <h1 class="mb-4">Powerful Secure & Best DMCA Ignored Hosting</h1>
@@ -29,13 +29,13 @@ include('./inc/navbar.php');
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
                             <i class="fa-regular fa-circle-check me-2 option-icon"></i>
-                            <span>Free Migration</span>
+                            <span>24/7 Assistance</span>
                         </div>
                     </div>
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -43,7 +43,7 @@ include('./inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="./assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
@@ -402,7 +402,7 @@ include('./inc/technicalSpecification.php');
                             <div>
                                 <a href="#hostingPlan" class='btn start-now-btn start-now'>
                                     Get Started Now
-                                    <FaArrowRight class="ms-2" />
+                                    <i class="ms-2 fa-solid fa-arrow-right"></i> 
                                 </a>
                             </div>
                         </div>
@@ -421,7 +421,7 @@ include('./inc/technicalSpecification.php');
                             <div>
                                 <a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2" class='btn start-now-btn start-now'>
                                     Get Started Now
-                                    <FaArrowRight class="ms-2" />
+                                    <i class="ms-2 fa-solid fa-arrow-right"></i> 
                                 </a>
                             </div>
                         </div>
@@ -459,7 +459,7 @@ include('./inc/technicalSpecification.php');
                 <h5 class="card-title blog-title1 mb-4">How to Start a Adult Blog?</h5>
                 <p class="mb-4 blog-con">Learn how to start an adult blog, covering essential steps like choosing a niche, setting up hosting, content creation tips, SEO, and marketing strategies to build a successful adult website.</p>
                 <a href='https://qloudhost.com/blog/how-to-start-an-adult-website/' class='start-now-btn blog-link'>Get Started
-                    <FaArrowRight class="ms-2" />
+                <i class="ms-2 fa-solid fa-arrow-right"></i> 
                 </a>
             </div>
         </div>
@@ -480,7 +480,7 @@ include('./inc/technicalSpecification.php');
                 <h5 class="card-title blog-title1 mb-4">Discover Our Blog And Know About Us More</h5>
                 <p class="mb-4 blog-con">Dive into our blog to explore who we are! From industry insights to our journey, discover stories, tips, and updates that bring you closer to our world. Stay informed, inspired, and connected with us!</p>
                 <a href='https://qloudhost.com/blog/' class=' start-now-btn blog-link'>Get Started
-                    <FaArrowRight class="ms-2" />
+                <i class="ms-2 fa-solid fa-arrow-right"></i> 
                 </a>
             </div>
         </div>

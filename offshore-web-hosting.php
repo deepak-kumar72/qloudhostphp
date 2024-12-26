@@ -35,7 +35,7 @@ include('./inc/navbar.php');
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>
+                            <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -43,7 +43,7 @@ include('./inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                        <img src="./assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
