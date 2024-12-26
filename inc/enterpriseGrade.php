@@ -67,6 +67,6 @@
             class="btn-primary m-auto d-flex justify-content-center">
             <button class="btn-primary start-now-btn enterprise-btn me-3">
                 Get Started Now
-                <FaArrowRight class="ms-4 start-now-icon" />
+                <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i> 
             </button>
         </a>

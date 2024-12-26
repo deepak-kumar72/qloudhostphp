@@ -9,6 +9,9 @@
             <div class='col-md-6 m-auto text-center'>
             <a href="#">
                 <button class='chat-now-btn start-now-btn me-3 '>
+               
+                    <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i> 
+
                     Chat Now 
                 </button>
                 </a>
@@ -16,8 +19,10 @@
                   to='explore'
                   smooth={true}
                   duration={200}>
-                <button class=' start-now-btn'> 
-                    Get Started <FaArrowRight class="ms-2" /> 
+                <button class='start-now-btn'>
+                    Get started
+                    <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>
+
                 </button>
                 </a>
             </div>

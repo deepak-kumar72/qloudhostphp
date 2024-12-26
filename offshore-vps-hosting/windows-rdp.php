@@ -9,7 +9,7 @@ include('../inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
                         Offshore Windows VPS RDP
                     </h4>
                     <h1 class="mb-4">Best Offshore Windows VPS RDP</h1>
@@ -35,7 +35,7 @@ include('../inc/navbar.php');
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i> 
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -43,14 +43,14 @@ include('../inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="../assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
             </div>
             <div class="col-md-6 m-auto">
                 <div class="hero-image-container position-relative text-end w-100 h-100">
-                    <img src="" alt="" class="hero-frame h-100 w-100" />
+                    <img src="../assets/img/Frame/robust-offshore-windows-vps-hosting.webp" alt="Best Offshore Windows VPS RDP" class="hero-frame h-100 w-100" />
                     <div class="features"></div>
                 </div>
             </div>
@@ -93,7 +93,7 @@ include('../inc/navbar.php');
                 <div class="card h-100 shadow-sm">
                     <div class='service-card d-flex p-4'>
                         <div class="mb-3  text-center me-2">
-                            <img src="/assets/icon/nvme-ssd.svg" alt='icon' class='streaming-image-icon' />
+                            <img src="../assets/img/icon/nvme-ssd.svg" alt='icon' class='streaming-image-icon' />
                         </div>
                         <div>
                             <div class='card-title'>Fastest NVMe SSD</div>
@@ -106,7 +106,7 @@ include('../inc/navbar.php');
                 <div class="card h-100 shadow-sm">
                     <div class='service-card d-flex p-4'>
                         <div class="mb-3  text-center me-2">
-                            <img src="/assets/icon/hosted-in-netherland.svg" alt='icon' class='streaming-image-icon' />
+                            <img src="../assets/img/icon/hosted-in-netherland.svg" alt='icon' class='streaming-image-icon' />
                         </div>
                         <div>
                             <div class='card-title'>Hosted in Netherlands</div>
@@ -119,7 +119,7 @@ include('../inc/navbar.php');
                 <div class="card h-100 shadow-sm">
                     <div class='service-card d-flex p-4'>
                         <div class="mb-3  text-center me-2">
-                            <img src="/assets/icon/14-days-money-back.svg" alt='icon' class='streaming-image-icon' />
+                            <img src="../assets/img/icon/14-days-money-back.svg" alt='icon' class='streaming-image-icon' />
                         </div>
                         <div>
                             <div class='card-title'>14 Days Money Back</div>
@@ -146,17 +146,17 @@ include('../inc/technicalSpecification.php');
           <a href='explore' smooth={true} duration={200}>
                 <button class="start-now-btn mb-4">
                   Get Started Now
-                  <FaArrowRight class="ms-4" />
+                  <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i> 
                 </button>
               </a>
         </div>
         <div class="col-md-5">
           <div class="d-flex flex-column align-items-center gap-3 panel-item">
               <button  size="lg" class=" os-opt">
-              <img src="/assets/icon/windows-2019.png" alt="" />    
+              <img src="../assets/img/icon/windows-2019.png" alt="windows-2019" />    
               </button>
               <button  size="lg" class=" os-opt">
-              <img src="/assets/icon/windows-2022.png" alt="" />    
+              <img src="../assets/img/icon/windows-2022.png" alt="windows-2019" />    
               </button>
           </div>
         </div>
@@ -191,7 +191,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/privacy-protection_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/privacy-protection_1.svg" alt="privacy-protection" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">100% Privacy Protection
                         </div>
@@ -205,7 +205,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/fair-and-affordable.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/fair-and-affordable.svg" alt="fair-and-affordable" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Fair & Affordable
                         </div>
@@ -219,7 +219,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/full-root-access_1.svg" alt="full-root-access" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Full Root Access
                         </div>
@@ -233,7 +233,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/feature/uptime.svg" alt="feature/uptime" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">99.9% uptime guaranteed
                         </div>
@@ -247,7 +247,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/free-website-migration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/feature/free-website-migration.svg" alt="free-website-migration" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Free Website Migration
                         </div>
@@ -261,7 +261,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/weekly-backup_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/weekly-backup_1.svg" alt="weekly-backup" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Weekly Backup
                         </div>
@@ -285,7 +285,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-lg-5  mb-4">
             <h2 class=" m-auto mb-3 w-100 vps-feature-heading">What Sets QloudHost Offshore Windows VPS Hosting Apart?</h2>
             <img
-                src=''
+                src='../assets/img/windows-vps.png'
                 alt="VPS Server"
                 class="vps-image d-flex m-auto" />
         </div>
@@ -305,7 +305,7 @@ include('../inc/technicalSpecification.php');
                 class="btn-primary">
                 <button class="btn-primary start-now-btn me-3">
                     Launch Your Project
-                    <FaArrowRight class="ms-4 start-now-icon" />
+                    <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i>
                 </button>
             </a>
         </div>
