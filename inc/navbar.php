@@ -1,8 +1,33 @@
+<?php
+// Include the meta data
+include 'meta.php';
+
+// Determine the current page
+$page = basename($page);
+// Set a default class if needed
+$page_class = $page ? $page : 'default';
+// Check if the meta data for the current page exists
+if (!isset($meta_data[$page])) {
+  // Fallback to a default meta data if the page is not defined
+  $page = 'default';
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <!-- Dynamic Meta Tags -->
+  <title><?php echo $meta_data[$page]['title']; ?></title>
+  <meta name="description" content="<?php echo $meta_data[$page]['description']; ?>">
+  <meta name="keywords" content="<?php echo $meta_data[$page]['keywords']; ?>">
+
+
+   <!-- JSON-LD Schema -->
+   <?php echo $meta_data[$page]['schema']; ?>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,21 +36,15 @@
     
 
     <link rel="stylesheet" href="http://localhost/qloudhost/assets/css/stylesheet.css">
-    <!-- <style>
-            .scrolled {
-                background-color: rgba(0, 0, 0, 0.9); /* Add desired scroll style */
-            }
-        </style>
-        <script>
-            window.addEventListener("scroll", function() {
-                const navBanner = document.querySelector(".nav-banner");
-                if (window.scrollY > 0) {
-                    navBanner.classList.add("scrolled");
-                } else {
-                    navBanner.classList.remove("scrolled");
-                }
-            });
-        </script> -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWWSKYXNZ5"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-DWWSKYXNZ5');
+</script>
 </head>
 
 <body>
@@ -98,7 +117,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-dedicated-servers/">Dedicated Server</a></li>
-                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-streaming-server.php">Streaming Server</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-streaming-server/">Streaming Server</a></li>
                                     <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-video-hosting.php">Video Hosting</a></li>
                                 </ul>
                             </li>

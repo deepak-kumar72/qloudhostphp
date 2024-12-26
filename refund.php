@@ -1,4 +1,5 @@
 <?php
+$page = 'refund';
 include('./inc/navbar.php');
 ?>
 

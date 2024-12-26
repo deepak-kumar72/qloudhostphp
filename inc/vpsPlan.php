@@ -51,9 +51,9 @@
                              <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/entry-plan&billingcycle=annually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -89,9 +89,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/value-plan&billingcycle=annually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -125,9 +125,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/business-plan&billingcycle=annually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -161,9 +161,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/enterprise-plan&billingcycle=annually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -205,9 +205,9 @@
                              <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/entry-plan&billingcycle=semiannually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -243,9 +243,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/value-plan&billingcycle=semiannually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -279,9 +279,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/business-plan&billingcycle=semiannually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -315,9 +315,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/enterprise-plan&billingcycle=semiannually">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -357,9 +357,9 @@
                              <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/entry-plan&billingcycle=quarterly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -395,9 +395,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/value-plan&billingcycle=quarterly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -431,9 +431,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/business-plan&billingcycle=quarterly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -467,9 +467,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/enterprise-plan&billingcycle=quarterly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -509,9 +509,9 @@
                              <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/entry-plan&billingcycle=monthly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -547,9 +547,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/value-plan&billingcycle=monthly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -583,9 +583,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/business-plan&billingcycle=monthly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 
@@ -619,9 +619,9 @@
                                  <i class="fa fa-check check"></i> Hosted in Netherlands
                             </li>
                         </ul>
-                        <Link to={plan.url}>
+                        <a href="https://my.qloudhost.com/index.php?rp=/store/vps/enterprise-plan&billingcycle=monthly">
                         <button class="plan-btn vps-plan-btn">Get Started</button>
-                        </Link>
+                        </a>
                     </div>
                 </div>
 

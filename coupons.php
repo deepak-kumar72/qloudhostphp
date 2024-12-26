@@ -1,4 +1,5 @@
 <?php
+$page = 'coupons';
 include('./inc/navbar.php');
 ?>
 

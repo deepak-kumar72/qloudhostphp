@@ -7,10 +7,12 @@
 
             </div>
             <div class='col-md-6 m-auto text-center'>
-            <a href="#" onClick={handleTawkToggle}>
+            <a href="#">
                 <button class='chat-now-btn start-now-btn me-3 '>
-                    Chat Now
+               
                     <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i> 
+
+                    Chat Now 
                 </button>
                 </a>
                 <a
@@ -20,6 +22,7 @@
                 <button class='start-now-btn'>
                     Get started
                     <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>
+
                 </button>
                 </a>
             </div>

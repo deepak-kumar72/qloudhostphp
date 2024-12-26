@@ -1,4 +1,5 @@
 <?php
+$page = 'dmca-ignored-vps';
 include('./inc/navbar.php');
 ?>
 

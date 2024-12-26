@@ -1,4 +1,5 @@
 <?php
+$page = 'terms';
 include('./inc/navbar.php');
 ?>
 

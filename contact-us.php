@@ -1,4 +1,5 @@
 <?php
+$page = 'contact-us';
 include('./inc/navbar.php');
 ?>
 

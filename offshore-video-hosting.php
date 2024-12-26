@@ -1,5 +1,5 @@
 <?php
-$page = 'adult-hosting';
+$page = 'offshore-video-hosting';
 include('./inc/navbar.php');
 ?>
 
@@ -12,26 +12,26 @@ include('./inc/navbar.php');
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
                         <i class="me-2 sub-title-icon"></i>
-                        Adult Web Hosting
+                        Offshore Video Hosting
                     </h4>
-                    <h1 class="mb-4">High Performance Adult VPS and Dedicated Servers</h1>
-                    <p class="mb-4">Unlock 100% reliable and secure Adult Hosting in the Netherlands with 99.99% uptime and 24/7 support. Perfect for Adult Tube, Adult Streaming Websites. Host your adult website today!</p>
+                    <h1 class="mb-4">100% DMCA Offshore Video Hosting</h1>
+                    <p class="mb-4">Optimize your adult, tube, copyrighted, and offshore content with our Offshore Video Hosting. Enjoy top speed and reliability for your web app, business site, or video platform.</p>
                     <div class="hero-options-container mb-4">
                         <div class="option-item d-flex align-items-center mb-2">
                             <i class="me-2 option-icon"></i>
-                            <span>Dedicated IP</span>
+                            <span>Fast, Secure, Reliable</span>
+                        </div>
+                        <div class="option-item d-flex align-items-center mb-2">
+                            <i class="me-2 option-icon"></i>
+                            <span>Strong Infrastructure</span>
+                        </div>
+                        <div class="option-item d-flex align-items-center mb-2">
+                            <i class="me-2 option-icon"></i>
+                            <span>DDoS Protection</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
                             <i class="me-2 option-icon"></i>
                             <span>Netherlands Location</span>
-                        </div>
-                        <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
-                            <span>Weekly Backup</span>
-                        </div>
-                        <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
-                            <span>24/7 Expert Support</span>
                         </div>
                     </div>
                     <div class="hero-buttons mb-4">
@@ -52,7 +52,7 @@ include('./inc/navbar.php');
             </div>
             <div class="col-md-6 m-auto">
                 <div class="hero-image-container position-relative text-end w-100 h-100">
-                    <img src="./assets/img/Frame/dmca-ignored-dedicated-server.webp" alt="home-dmca-ignored-hosting" class="hero-frame h-100 w-100" />
+                    <img src="./assets/img/Frame/" alt="" class="hero-frame h-100 w-100" />
                     <div class="features"></div>
                 </div>
             </div>
@@ -63,36 +63,9 @@ include('./inc/navbar.php');
 
 
 <div class="hosting-plan mb-5">
-    <div class="container plan-sec mt-5">
-        <h2 class="text-center m-auto mb-3">Adult VPS Hosting Plans & Pricing</h2>
-        <p class="text-center mb-5 planHead-con m-auto">Unlock Peak Performance and Unparalleled Security with
-            <a href='/offshore-vps-hosting/' class="faq-link">VPS Hosting</a> for
-            Adult Websites. Choose from Linux or Windows Operating Systems and
-            experience the ultimate hosting solution for your website or
-            application.
-        </p>
-
-        <?php
-        include('./inc/vpsPlan.php');
-        ?>
-
-        <div class="text-center mt-3">
-            <span class="consult">Looking for more power? Check our DMCA Ignored Offshore Dedicated
-                Server Plans
-                <a href="/offshore-dedicated-servers/" class=" fw-bold">
-                Dedicated Server
-                </a>
-                Plans
-            </span>
-        </div>
-    </div>
-</div>
-
-
-<div class="hosting-plan mb-5">
     <div class=" plan-sec mt-5">
-        <h2 class="text-center m-auto mb-3">Adult Dedicated Server Hosting Plans & Pricing</h2>
-        <p class="text-center mb-5 planHead-con m-auto">Unleash your adult website’s potential with our Adult dedicated server hosting plans. Powerful, reliable, and tailored for the industry, choose the perfect solution at competitive pricing.</p>
+        <h2 class="text-center m-auto mb-3">Best Offshore Video Hosting Plans at the Lowest Cost!</h2>
+        <p class="text-center mb-5 planHead-con m-auto">Get your offshore Adult video hosting server ready at a meagre cost. No hidden charges or conditions applied!</p>
 
 
         <?php
@@ -102,45 +75,49 @@ include('./inc/navbar.php');
         <div class="text-center mt-3">
             <span class="consult">Looking for high-performance and custom resources? Our friendly
                 <a href="" class="fw-bold">support sales team</a> is here to help!
-                <a href="" class="fw-bold">Get in touch</a> with us today.
+                <a href="" class="fw-bold"> Get in touch </a> with us today.
             </span>
         </div>
     </div>
 </div>
 
 
+
 <div class="py-5 custom-sol mb-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-sm-12  customSol-text">
-                <h3 class="mb-4">Need Custom Solutions Adult Dedicated Servers?</h3>
-                <p>Expand Adult Websit’s with DMCA Ignored Servers across your entire Organization. Enjoy unbeatable features, dedicated account and priority support.</p>
+                <h3 class="mb-4">Need Custom Offshore Video Hosting Servers?</h3>
+                <p>Need for Customized DMCA Ignored Offshore Dedicated Servers across your entire Organization. Enjoy unbeatable features, with Offshore Video Hosting for Adult, Tube, and Tutorial Sites and priority support.</p>
             </div>
             <div class="col-lg-4 col-sm-12 m-auto text-center">
                 <a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2">
-                <button class=" start-now-btn custom-sol-btn">
-                    Contact Us
-                    <FaArrowRight class="ms-2" />
-                </button>
+                    <button class=" start-now-btn custom-sol-btn">
+                        Contact Us
+                        <FaArrowRight class="ms-2" />
+                    </button>
                 </a>
             </div>
         </div>
     </div>
 </div>
 
+
+
 <div class="container my-5">
     <div class="py-4">
         <h2 class="text-center mb-4 w-100">QloudHost Guarantees</h2>
-        <p class="text-center mb-5">Boost your website performance with world-class Best & Cheap Adult Web Hosting servers and guaranteed performance.</p>
+        <p class="text-center mb-5">Boost your website performance with world-class offshore Video Hosting for Adult & DMCA Ignored Content and guaranteed performance.</p>
         <div class="row guarantees-box rounded">
             <div class="col-md-4 mb-4 mb-md-0 guarantee-item d-flex">
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/icon/pre-install-os.svg' alt="SSD Icon" class='qloudGurantee-img' />
+                        <img src='/assets/feature/ssd.svg' alt="SSD Icon" class='qloudGurantee-img' />
                     </div>
-                    <h5>Pre-Installed OS</h5>
+                    <h5>Fastest NVMe SSD</h5>
                     <p>
-                        Get on Demand Pre-Installed OS of Your Choice Optimized for Windows and Linux.To ensure compatibility and great performance, the servers we utilise are tested against a variety of Windows and Linux Server distributions.
+                        Get Super-fast performance with blazing fast NVMe SSD drive storage! Our service comes
+                        with guaranteed quality, using industry-standard equipment to run our servers.
                     </p>
                 </div>
                 <div class='gurantee-seprator'></div>
@@ -162,11 +139,11 @@ include('./inc/navbar.php');
                 <div class="vertical-divider"></div>
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/icon/money-back.svg' alt="Support Icon" class='qloudGurantee-img' />
+                        <img src='/assets/serviceImg/support.svg' alt="Support Icon" class='qloudGurantee-img'>
                     </div>
-                    <h5>14 Days Money Back</h5>
+                    <h5>24/7 Support</h5>
                     <p>
-                        We understand the value of your hard-earned money! Get full assurance with a 14-day money-back guarantee. And no questions will be asked!
+                        We have a team of individuals who possess technical expertise and are working tirelessly 24/7 to provide support at every step of your online journey.
                     </p>
                 </div>
             </div>
@@ -174,10 +151,10 @@ include('./inc/navbar.php');
     </div>
 </div>
 
-
 <?php
 include('./inc/technicalSpecification.php');
 ?>
+
 
 
 <div class="install-panel">
@@ -187,7 +164,7 @@ include('./inc/technicalSpecification.php');
             <div class="col-md-7 d-flex">
                 <div class="m-auto">
                     <h2 class="mb-4 w-100">Available Operating Systems</h2>
-                    <p class="planHead-con w-100 mb-4">Work with your desired Operating system without any errors!</p>
+                    <p class="planHead-con w-100 mb-4">QloudHost is offering you multiple OS options to choose from so that you can work with the Operating system you relish the most.</p>
                     <a href="#explore" class="smooth-scroll">
                         <button class="start-now-btn mb-4">
                             Get Started Now
@@ -227,65 +204,50 @@ include('./inc/technicalSpecification.php');
 </div>
 
 
-
 <div class="privacy-hardware-container mt-5">
     <div class="container">
-        <div class="row align-items-center mb-3">
+        <div class="row align-items-center mb-5">
             <div class="col-md-6 mb-4 text-center">
-                <img src='/assets/feature/easy-upgrades.webp' alt="Easy Upgrade" class="img-fluid m-auto" />
+                <img src='/assets/feature/video-hosting.webp' alt="Video Hosting for Business" class="img-fluid m-auto" />
             </div>
             <div class="col-md-6 feature-element-sec">
-                <h2 class='w-100 mb-3'>Easy Upgrades</h2>
+                <h2 class='w-100 mb-3'>Video Hosting for Business</h2>
                 <p class="">
-                    Our VPS services are built on enterprise-level hardware, ensuring that your website operates at optimal performance levels.</p>
-                <p class="">
-                    Combined with innovative software and tuning, your website will load faster, 24/7/365, improving your overall SEO score and global visibility.</p>
-                <p class="">
-                    At any scale, we deliver high performance with our Netherlands Adult VPS & Dedicated Servers. With a single click, you can
-                    <a href='/offshore-dedicated-server/' class='faq-link'>upgrade</a> or downgrade your resources at any time.
+                    QloudHost has deployed multiple
+                    <a href='/offshore-vps-hosting/' class='faq-link'>offshore hosting servers</a> at the best locations with a dedicated team of onsite technical experts working 24*7 to ensure optimum performance for your website.
                 </p>
-                <a href="explore" smooth={true} duration={200}>
-                    <button class="btn start-now-btn mt-3">
-                        Get Started Now
-                        <FaArrowRight class="ms-2" />
-                    </button>
-                </a>
+                <p class="">
+                    In addition, our servers are running servers equipped with best-in-class and latest hardware technologies such as powerful SSD storage, latest processors and much more.
+                </p>
+                <p class="">
+                    Hence if you are looking for an offshore Adult video hosting service provider to
+                    <a href='/offshore-streaming-server/' class='faq-link'>start your video</a> streaming business, then we have bundled up everything for you!
+                </p>
             </div>
         </div>
 
-        <div class="row align-items-center mb-3">
+        <div class="row align-items-center mb-5">
             <div class="col-md-6 order-md-2 mb-3 text-center">
-                <img src='/assets/feature/full-data-privacy.webp' alt="Data Privacy" class="img-fluid" />
+                <img src='/assets/feature/high-performance.webp' alt="High Performance Network" class="img-fluid" />
             </div>
             <div class="col-md-6 order-md-1 feature-element-sec">
-                <h2 class='mb-3 w-100'>Full Data Privacy</h2>
+                <h2 class='mb-3 w-100'>High Performance Network</h2>
                 <p class="">
-                    Ensure Complete Data Privacy with our Offshore DMCA Ignored Hosting experts. Experience a seamless migration of all your Adult websites with our Adult Web Hosting, prioritizing your convenience, and free of charge.
+                    QloudHost has deployed multiple robust servers on the best data centers to provide you with high-speed network communication for ultra-fast loading speed, bufferless
+                    <a href='/offshore-streaming-server/' class='faq-link'>streaming </a>and excellent connectivity.
                 </p>
                 <p class="">
-                    Experience Full Data Privacy with Our Cutting-Edge Solutions. Safeguard your sensitive information and maintain complete control over your data with our robust privacy measures. Rest easy knowing your privacy is our top priority.
+                    One more interesting aspect is low-latency, that means our servers are especially optimized to perform faster even with high-load, making us capable enough to provide maximum uptime!
                 </p>
-
-            </div>
-        </div>
-        <div class="row align-items-center mb-3">
-            <div class="col-md-6 mb-4 text-center">
-                <img src='/assets/feature/high-performance-dult-hosting_99-uptime.webp' alt="High Performance Adult Hosting" class="img-fluid m-auto" />
-            </div>
-            <div class="col-md-6 feature-element-sec">
-                <h2 class='w-100 mb-3'>
-                    High Performance Adult Hosting</h2>
-                <p class="">
-                    QloudHost ensures peak performance by optimizing every server, domain, and load. Experience consistent data delivery even during high load times, giving you full control over your data connections. </p>
-                <p class="">
-                    With our exclusive focus on your growing Adult Website’s Dedicated Servers Plans, we guarantee lightning-fast loading for your adult website.
-                </p>
-                <a href="explore">
+                <a
+                    href='#explore'
+                    smooth={true}
+                    duration={200}>
                     <button class="btn start-now-btn mt-3">
                         Get Started Now
                         <FaArrowRight class="ms-2" />
-                    </button>
-                </a>
+
+                    </button></a>
             </div>
         </div>
     </div>
@@ -296,46 +258,60 @@ include('./inc/technicalSpecification.php');
 
 <!-- QloudHost Services -->
 <div class="container my-5 qloudService-section">
-    <h2 class="text-center mb-3 m-auto">Why Choose QloudHost Adult Web Hosting?</h2>
+    <h2 class="text-center mb-3 m-auto">Offshore Adult Video Hosting Unbelievable Features</h2>
     <p class="text-center planHead-con m-auto mb-5">Looking for some good reasons to choose QloudHost? Here’s the reason of our confidence.</p>
     <div class="row mt-4 justify-content-center">
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/privacy-protection_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="/assets/serviceImg/no-buffer-stream.svg" alt="" class="mb-3 qloudService-img" >
+                    <div class="qloudservice-desc">
+                        <div class="service-title mb-2">No Buffer Stream
+                        </div>
+                        <div class="card-text service-text mb-3">
+                        Worried about the performance of your video streaming website? Just sit and relax! Because we run robust servers equipped with the latest and most powerful hardware technologies in the market.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mb-4">
+            <div class="card service-card-body">
+                <div class="p-3">
+                    <img src="/assets/serviceImg/use-your-player.svg" alt="" class="mb-3 qloudService-img" />
+                    <div class="qloudservice-desc">
+                        <div class="service-title mb-2">Use Your Player
+                        </div>
+                        <div class="card-text service-text mb-3">
+                        Although we provide you with a pre-built video player, our <a href='/' class='faq-link'>DMCA Ignored servers</a> are resilient enough to allow you the installation of your favorite video player without any restriction and buffering neither.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mb-4">
+            <div class="card service-card-body">
+                <div class="p-3">
+                    <img src="/assets/serviceImg/embeds.svg" alt="" class="mb-3 qloudService-img" />
+                    <div class="qloudservice-desc">
+                        <div class="service-title mb-2">Unlimited Embeds & Plays
+                        </div>
+                        <div class="card-text service-text mb-3">
+                        There is no limit on the number of videos you can post and play on your website, all thanks to the robust servers we are using for the services, which allows you to use unrestricted resources.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 mb-4">
+            <div class="card service-card-body">
+                <div class="p-3">
+                    <img src="/assets/serviceImg/privacy-protection_1.svg" alt="" class="mb-3 qloudService-img">
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">100% Privacy Protection
                         </div>
                         <div class="card-text service-text mb-3">
-                            Get impenetrable security and full data privacy with QloudHost offshore hosting servers. Sounds quite an affirmative statement, Right? But that’s true because we minimize our customer’s visibility to make your footprints untraceable on the internet.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-4 mb-4">
-            <div class="card service-card-body">
-                <div class="p-3">
-                    <img src="/assets/serviceImg/fair-and-affordable.svg" alt="" class="mb-3 qloudService-img" />
-                    <div class="qloudservice-desc">
-                        <div class="service-title mb-2">Fair & Affordable
-                        </div>
-                        <div class="card-text service-text mb-3">
-                            QloudHost provides you the most affordable Offshore <a href='/' class='faq-link'>DMCA Ignored Adult Hosting plans</a> to run your Adult Websites because we understand the value of your hard-earned money. Our plans are focused on providing you with well-balanced features to exclude unnecessary things and decrease the cost.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-4 mb-4">
-            <div class="card service-card-body">
-                <div class="p-3">
-                    <img src="/assets/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
-                    <div class="qloudservice-desc">
-                        <div class="service-title mb-2">Full Root Access
-                        </div>
-                        <div class="card-text service-text mb-3">
-                            Get root level control to your server to customize it according to your needs and requirements. Isn’t it amazing? But how will this feature benefit your website? Simple, with root access, you are allowed to create, modify, customize or delete files of your website without seeking our permission.
+                        QloudHost provides you with top-notch security features such firewall, offshore servers and much more to ensure your 100% privacy and untraceable footprints on the internet. 
                         </div>
                     </div>
                 </div>
@@ -346,10 +322,10 @@ include('./inc/technicalSpecification.php');
                 <div class="p-3">
                     <img src="/assets/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
-                        <div class="service-title mb-2">99.9% uptime guaranteed
+                        <div class="service-title mb-2">99.9% Uptime Guaranteed
                         </div>
                         <div class="card-text service-text mb-3">
-                            Our first priority is to provide you services with quality that’s why our all plans come with a guaranteed uptime of 99.99%. So let your website into our safe hands and we will ensure the availability of your website on the internet.
+                        We are confident to share with you that our server uptime is 99.9%, and we ensure that it should be maintained for maximum availability of your website on the internet.
                         </div>
                     </div>
                 </div>
@@ -358,26 +334,12 @@ include('./inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/free-website-migration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="/assets/serviceImg/support.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
-                        <div class="service-title mb-2">Free Website Migration
+                        <div class="service-title mb-2">24/7 Support
                         </div>
                         <div class="card-text service-text mb-3">
-                            Had a really bad experience with your previous service provider? Don’t worry! We have built a <a href='/contact-us/' class='faq-link'> dedicated team</a> of technical experts to migrate your website to quality services without causing any data loss.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-4 mb-4">
-            <div class="card service-card-body">
-                <div class="p-3">
-                    <img src="/assets/serviceImg/weekly-backup_1.svg" alt="" class="mb-3 qloudService-img" />
-                    <div class="qloudservice-desc">
-                        <div class="service-title mb-2">Weekly Backup
-                        </div>
-                        <div class="card-text service-text mb-3">
-                            QloudHost has created a smart data backup feature to make your website’s data safer and more secure. But how? Simple, For Shared Hosting, we provide alternate day backup for 7 Days. (Included free) Whereas for VPS, Weekly backup available (1 Snapshot per week), will charge extra.
+                        Our team of technical experts is working 24*7 to solve your queries and help you at every stage of your journey. In addition, they constantly monitor your website’s resources to ensure uptime and performance.
                         </div>
                     </div>
                 </div>
@@ -386,9 +348,8 @@ include('./inc/technicalSpecification.php');
     </div>
 </div>
 
-<?php
-include('./inc/testimonial.php');
-?>
+
+
 
 
 <div class='testimonial py-5'>
@@ -407,11 +368,11 @@ include('./inc/testimonial.php');
                     <div class="accordion-item faq-items">
                         <h2 class="accordion-header" id="flush-headingOne">
                             <button class="accordion-button acc-purple-bg" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                What is Adult Web Hosting and it's benefits ?
+                            What is video hosting?
                             </button>
                         </h2>
                         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Adult Web Hosting refers to a specialized hosting service designed to cater to the unique needs of websites that contain adult content. It provides a secure and optimized environment for hosting explicit material, ensuring compliance with legal regulations and industry standards.The benefits of Adult Web Hosting include- Enhanced Performance, Improved Security, Content Flexibility and Expert Support Experience the advantages of Adult Web Hosting with QloudHost, where we combine reliability, performance, and privacy to empower your adult website’s success.
+                            <div class="accordion-body">Video hosting is nothing but an optimized server, especially for <a href='/offshore-streaming-server/' class='faq-link'>video streaming</a>  websites or OTT kind of platforms. For example, there are many movie streaming websites that offer paid as well as free movies to watch or download. These websites use video hosting services to host their website and get a bufferless experience!
                             </div>
                         </div>
                     </div>
@@ -420,14 +381,12 @@ include('./inc/testimonial.php');
                         <h2 class="accordion-header" id="flush-headingTwo">
                             <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                                Which Adult server will suit my project best?
+                                What are the content restrictions on offshore VPS servers?
                             </button>
                         </h2>
                         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">At Qloudhost, we understand the importance of choosing the right Adult Web Hosting server for your project. Consider factors like performance, scalability, operating system compatibility, control panel options, network connectivity, security measures, and customer support.
-                                <br />
-                                <a href='/contact-us/' class='faq-link'>Our team</a> is here to guide you in finding the ideal VPS server that meets your project’s requirements.
+                            <div class="accordion-body">Normal web hosting services allow you to host a streaming website on their servers, but they do not allow you to post DMCA Ignored content or adult content and posting such kind of content on their servers can cause your website termination or arbitrary troubles too.  Hence, offshore video hosting services are used to host the website because they allow you to host DMCA Ignored content.
                             </div>
                         </div>
                     </div>
@@ -436,17 +395,12 @@ include('./inc/testimonial.php');
                         <h2 class="accordion-header" id="flush-headingThree">
                             <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                                Can I upgrade my Adult Web Hosting plan later?
+                                Where are your servers based?
                             </button>
                         </h2>
                         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Yes! At QloudHost, we understand that your hosting needs may evolve over time. That’s why we provide the flexibility to upgrade your Adult Web Hosting plan whenever you require additional resources or features.
-                                <br />
-                                Whether you need more storage, increased bandwidth, or enhanced performance, our scalable hosting solutions allow for seamless upgrades.
-                                <br />
-                                Simply get in touch with our
-                                <a href='/contact-us/' class='faq-link'> support team</a>, and they will assist you in upgrading your plan to accommodate your growing needs.
+                            <div class="accordion-body">Our offshore  hosting services are specially built for DMCA Ignored content, so you can enjoy our services without facing any arbitrary actions. DMCA Ignored content includes copyrighted, illegal, adult content etc.
                             </div>
                         </div>
                     </div>
@@ -455,13 +409,12 @@ include('./inc/testimonial.php');
                         <h2 class="accordion-header" id="flush-headingFour">
                             <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                Do I need technical knowledge to benefit from QloudHost Adult Web Hosting Plans?
+                                Can I get full admin access to my offshore VPS servers?
                             </button>
                         </h2>
                         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">No, you do not necessarily need technical knowledge to benefit from QloudHost Adult hosting. QloudHost provides a user-friendly control panel with it’s VPS hosting Plans, which means you can handle a maximum number of tasks for yourself also.
-                            However, it can be helpful to have some technical knowledge or experience in managing servers, especially if you want to customize your VPS hosting environment or troubleshoot any issues that may arise. In any case, QloudHost offers support and resources to assist you with any technical concerns.
+                            <div class="accordion-body">Definitely, our <a href='/offshore-vps-hosting/' class='faq-link'>offshore hosting servers</a> come with full root access, which provides you with the ability to customize your files and resources as per your needs. In addition, you can also create, modify, upgrade or delete your website with just a few clicks.
                             </div>
                         </div>
                     </div>
@@ -470,15 +423,28 @@ include('./inc/testimonial.php');
                         <h2 class="accordion-header" id="flush-headingFive">
                             <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFour">
-                                Can I host multiple websites within one Adult VPS Hosting plan?
+                                Can I host Adult video content on QloudHost?
 
                             </button>
                         </h2>
                         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">`Absolutely! With our Adult VPS Hosting plan, you can effortlessly host multiple websites under one roof. 
-                            Enjoy the convenience and flexibility of managing all your adult websites within a single hosting solution
+                            <div class="accordion-body">Yes….!  We allow you to post adult content on our offshore video hosting server with untraceable footprints and impenetrable security.
                             </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item faq-items">
+                        <h2 class="accordion-header" id="flush-headingseven1">
+                            <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseseven1" aria-expanded="false" aria-controls="flush-collapseFour">
+                                I bought your offshore VPS servers, when will they be activated?
+
+                            </button>
+                        </h2>
+                        <div id="flush-collapseseven1" class="accordion-collapse collapse" aria-labelledby="flush-headingseven1"
+                            data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">QloudHost provides you with an instant setup means that your servers will be ready to use right after you finish the purchase.</div>
                         </div>
                     </div>
 
@@ -487,7 +453,6 @@ include('./inc/testimonial.php');
         </div>
     </div>
 </div>
-
 
 
 

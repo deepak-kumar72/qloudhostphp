@@ -1,4 +1,5 @@
 <?php
+$page = 'privacy-policy';
 include('./inc/navbar.php');
 ?>
 

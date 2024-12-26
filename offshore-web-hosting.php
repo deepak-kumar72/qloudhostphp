@@ -1,4 +1,5 @@
 <?php
+$page = 'offshore-web-hosting';
 include('./inc/navbar.php');
 ?>
 

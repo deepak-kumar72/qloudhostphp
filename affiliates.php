@@ -1,4 +1,5 @@
 <?php
+$page = 'affiliates';
 include('./inc/navbar.php');
 ?>
 
