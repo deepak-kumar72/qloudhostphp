@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Jost:ital,wght@0,100..900;1,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     
 
-    <link rel="stylesheet" href="./assets/css/stylesheet.css">
+    <link rel="stylesheet" href="http://localhost/qloudhost/assets/css/stylesheet.css">
     <!-- <style>
             .scrolled {
                 background-color: rgba(0, 0, 0, 0.9); /* Add desired scroll style */
@@ -35,7 +34,7 @@
 <div class="container-fluid">
             <div class="row text-center p-2 top-content">
                 <span>
-                    <Image src="./assets/img/fireImage.png"  alt="fire"  class="me-2" />
+                    <Image src="http://localhost/qloudhost/assets/img/fireImage.png"  alt="fire"  class="me-2" />
                     Save 15% on Offshore DMCA Ignored VPS + 1 Month Free on Annual VPS-
                     <a href="" class="link-light">Grab Now!</a>
                 </span>
@@ -46,7 +45,7 @@
         <nav class="navbar navbar-expand-lg bg-white">
             <div class="container mx-5 nav-section">
                 <a class="navbar-brand" href="/">
-                    <img src="./assets/img//logo.svg" alt="logo" width="60" height="60">
+                    <img src="http://localhost/qloudhost/assets/img/logo.svg" alt="logo" width="60" height="60">
                 </a>
                 <button
                     class="navbar-toggler"
@@ -80,8 +79,8 @@
                                     Hosting <i class="fas fa-chevron-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="offshore-web-hosting.php">Offshore Hosting</a></li>
-                                    <li><a class="dropdown-item" href="offshore-wordpress-hosting.php">Offshore WordPress</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-web-hosting.php">Offshore Hosting</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-wordpress-hosting.php">Offshore WordPress</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown pe-4">
@@ -89,8 +88,8 @@
                                     VPS <i class="fas fa-chevron-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="offshore-vps-hosting/">Offshore VPS</a></li>
-                                    <li><a class="dropdown-item" href="/offshore-vps-hosting/windows-rdp/">Offshore Windows VPS</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-vps-hosting/">Offshore VPS</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-vps-hosting/windows-rdp.php">Offshore Windows VPS</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown pe-4">
@@ -98,13 +97,13 @@
                                     Server <i class="fas fa-chevron-down"></i>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/offshore-dedicated-servers/">Dedicated Server</a></li>
-                                    <li><a class="dropdown-item" href="/offshore-streaming-server/">Streaming Server</a></li>
-                                    <li><a class="dropdown-item" href="/offshore-video-hosting/">Video Hosting</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-dedicated-servers/">Dedicated Server</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-streaming-server.php">Streaming Server</a></li>
+                                    <li><a class="dropdown-item" href="http://localhost/qloudhost/offshore-video-hosting.php">Video Hosting</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item pe-4"><a class="nav-link nav-option" href="/affiliates/">Affiliate</a></li>
-                            <li class="nav-item pe-4"><a class="nav-link nav-option" href="/about/">About</a></li>
+                            <li class="nav-item pe-4"><a class="nav-link nav-option" href="http://localhost/qloudhost/affiliates.php">Affiliate</a></li>
+                            <li class="nav-item pe-4"><a class="nav-link nav-option" href="http://localhost/qloudhost/about.php">About</a></li>
                         </ul>
                         <a href="https://my.qloudhost.com/login">
                             <button class="btn signIn-btn nav-signIn">Sign In</button>

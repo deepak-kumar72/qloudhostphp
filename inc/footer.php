@@ -72,7 +72,7 @@
                                 </li>
                                 <li >
 
-                                    <a href='dmca-ignored-vps.php' class="text-light text-decoration-none footer-menu">
+                                    <a href='http://localhost/qloudhost/dmca-ignored-vps.php' class="text-light text-decoration-none footer-menu">
                                     DMCA Ignored VPS
                                     </a>
                                 </li>
@@ -84,7 +84,7 @@
                                 </li>
                                 <li >
 
-                                    <a href='dmca-ignored-dedicated-servers.php' class="text-light text-decoration-none footer-menu">
+                                    <a href='http://localhost/qloudhost/dmca-ignored-dedicated-servers.php' class="text-light text-decoration-none footer-menu">
                                     DMCA Ignored Dedicated Servers
                                     </a>
                                 </li>
@@ -97,12 +97,12 @@
                             <h5 class='menu-head'>Special Hosting</h5>
                             <ul class="list-unstyled">
                                 <li >
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/adult-hosting.php" class="text-light text-decoration-none footer-menu">
                                     Adult Hosting
                                     </a>
                                 </li>
                                 <li >
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/high-performance-vps-hosting.php" class="text-light text-decoration-none footer-menu">
                                     High Performance VPS
                                     </a>
                                 </li>
@@ -148,22 +148,22 @@
                             <h5 class='menu-head'>Policies</h5>
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="privacy-policy.php" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/privacy-policy.php" class="text-light text-decoration-none footer-menu">
                                     Privacy Policy
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="terms.php" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/terms.php" class="text-light text-decoration-none footer-menu">
                                     Terms of Service
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="fair-usage-policy.php" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/fair-usage-policy.php" class="text-light text-decoration-none footer-menu">
                                     Fair Usage Policy
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="refund.php" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/refund.php" class="text-light text-decoration-none footer-menu">
                                     Refund Policy
                                     </a>
                                 </li>
@@ -190,7 +190,7 @@
                             <ul class="list-unstyled">
 
                                 <li>
-                                    <a href="about.php" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/about.php" class="text-light text-decoration-none footer-menu">
                                     About QloudHost
                                     </a>
                                 </li>
@@ -200,7 +200,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="contact-us.php" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/contact-us.php" class="text-light text-decoration-none footer-menu">
                                     Contact Us
                                     </a>
                                 </li>
@@ -210,7 +210,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="report-abuse.php" class="text-light text-decoration-none footer-menu">
+                                    <a href="http://localhost/qloudhost/report-abuse.php" class="text-light text-decoration-none footer-menu">
                                     Abuse Report
                                     </a>
                                 </li>
