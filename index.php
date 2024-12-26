@@ -278,23 +278,23 @@ include('./inc/technicalSpecification.php');
                 <div class="d-flex flex-column align-items-center gap-3 panel-item">
                     <div class="panel-opt">
                         <img src="./assets/img/icon/cPanel.png" alt="icon" class="h-100" />
-                        <p>cPanel</p>
+                        cPanel
                     </div>
                     <div class="panel-opt">
                         <img src="./assets/img/icon/directAdmin.png" alt="icon" class="h-100" />
-                        <p>DirectAdmin</p>
+                        DirectAdmin
                     </div>
                     <div class="panel-opt">
                         <img src="./assets/img/icon/cyberPanel.png" alt="icon" class="h-100" />
-                        <p>CyberPanel</p>
+                        CyberPanel
                     </div>
                     <div class="panel-opt">
                         <img src="./assets/img/icon/ubuntu.png" alt="icon" class="h-100" />
-                        <p>Ubuntu</p>
+                        Ubuntu
                     </div>
                     <div class="panel-opt">
                         <img src="./assets/img/icon/debain.png" alt="icon" class="h-100" />
-                        <p>Debian</p>
+                        Debian
                     </div>
                 </div>
             </div>
