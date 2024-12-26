@@ -1,4 +1,5 @@
 <?php
+$page = 'offshore-dedicated-servers';
 include('../inc/navbar.php');
 ?>
 
@@ -18,7 +19,7 @@ include('../inc/navbar.php');
                     <div class="hero-options-container mb-4">
                         <div class="option-item d-flex align-items-center mb-2">
                             <i class="me-2 option-icon"></i>
-                            <span>ree Migration Available</span>
+                            <span>Free Migration Available</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
                             <i class="me-2 option-icon"></i>

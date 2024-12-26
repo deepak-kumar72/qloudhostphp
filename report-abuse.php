@@ -1,4 +1,5 @@
 <?php
+$page = 'report-abuse';
 include('./inc/navbar.php');
 ?>
 

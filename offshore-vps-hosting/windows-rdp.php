@@ -1,4 +1,5 @@
 <?php
+$page = 'offshore-vps-hosting-windows-rdp';
 include('../inc/navbar.php');
 ?>
 

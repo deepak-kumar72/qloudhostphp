@@ -1,4 +1,5 @@
 <?php
+$page = 'Home';
 include('./inc/navbar.php');
 ?>
 

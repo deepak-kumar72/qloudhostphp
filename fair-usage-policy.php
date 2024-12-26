@@ -1,4 +1,5 @@
 <?php
+$page = 'fair-usage-policy';
 include('./inc/navbar.php');
 ?>
 

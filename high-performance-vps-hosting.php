@@ -1,4 +1,5 @@
 <?php
+$page = 'high-performance-vps-hosting';
 include('./inc/navbar.php');
 ?>
 

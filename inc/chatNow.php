@@ -7,21 +7,17 @@
 
             </div>
             <div class='col-md-6 m-auto text-center'>
-            <a href="#" onClick={handleTawkToggle}>
+            <a href="#">
                 <button class='chat-now-btn start-now-btn me-3 '>
-                    Chat Now <FaArrowRight class="ms-2" />
-               
-
+                    Chat Now 
                 </button>
                 </a>
                 <a
                   to='explore'
                   smooth={true}
                   duration={200}>
-                <button class=' start-now-btn'>
-                
-                    Get Started <FaArrowRight class="ms-2" />
-                
+                <button class=' start-now-btn'> 
+                    Get Started <FaArrowRight class="ms-2" /> 
                 </button>
                 </a>
             </div>

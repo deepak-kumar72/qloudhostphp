@@ -1,4 +1,5 @@
 <?php
+$page = 'offshore-wordpress-hosting';
 include('./inc/navbar.php');
 ?>
 
