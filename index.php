@@ -102,7 +102,7 @@ include('./inc/navbar.php');
                             <i class="fa fa-check check"></i> Direct Admin Panel
                         </li>
                     </ul>
-                    <a href="">
+                    <a href="/offshore-web-hosting.php">
                         <button class="plan-btn">Get Started</button>
                     </a>
                 </div>
@@ -141,7 +141,7 @@ include('./inc/navbar.php');
                         </li>
 
                     </ul>
-                    <a href="">
+                    <a href="/offshore-vps-hosting/">
                         <button class="plan-btn">Get Started</button>
                     </a>
                 </div>
@@ -178,7 +178,7 @@ include('./inc/navbar.php');
                             <i class="fa fa-check check"></i> 1 IPv4 address
                         </li>
                     </ul>
-                    <a href="">
+                    <a href="/offshore-dedicated-servers/">
                         <button class="plan-btn">Get Started</button>
                     </a>
                 </div>
@@ -189,7 +189,7 @@ include('./inc/navbar.php');
         <div class="text-center mt-3">
             <span class="consult">
                 Not sure which Offshore DMCA Ignored hosting plan is right for you? We can help.
-                <a href="" class="fw-bold">
+                <a href="/contact-us.php" class="fw-bold">
                     GET FREE CONSULTATION NOW
                 </a>
             </span>
@@ -506,7 +506,7 @@ include('./inc/technicalSpecification.php');
                         </h3>
                         <p class="text-muted mb-4">Renews at Same Price</p>
                         <p class='plan-resource-desc mb-4'>Best & Cheap offshore hosting for bloggers, businesses, and Startups site.</p>
-                        <a href=""> <button class="btn w-100 start-free-btn fw-blod">
+                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 start-free-btn fw-blod">
                                 Get started for free</button></a>
                     </div>
                 </div>
@@ -521,7 +521,7 @@ include('./inc/technicalSpecification.php');
                         </h3>
                         <p class="text-muted mb-4">Renews at Same Price</p>
                         <p class='plan-resource-desc mb-4'>Fully Optimized for WordPress Offshore Hosting for top speed and cheap price</p>
-                        <a href=""> <button class="btn w-100 start-free-btn fw-blod">
+                        <a href="/offshore-wordpress-hosting.php"> <button class="btn w-100 start-free-btn fw-blod">
 
                                 Get started for free</button></a>
                     </div>
@@ -537,7 +537,7 @@ include('./inc/technicalSpecification.php');
                         </h3>
                         <p class="text-muted mb-4">Renews at Same Price</p>
                         <p class='plan-resource-desc mb-4'>Robust and Flexible For large & growing Business sites with more room to Play.</p>
-                        <a href=""> <button class="btn w-100 start-free-btn fw-blod">
+                        <a href="/offshore-vps-hosting.php"> <button class="btn w-100 start-free-btn fw-blod">
 
                                 Get started for free</button></a>
                     </div>
@@ -572,7 +572,7 @@ include('./inc/testimonial.php');
                         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">DMCA ignored web hosting is especially popular when privacy and data
                                 security are concerned. It allows you to
-                                <Link to="/" className="faq-link"> host your website </Link>
+                                <a href="/" className="faq-link"> host your website </a>
                                 with untraceable footprints and post any content (DMCA ignored content) without getting any arbitrary troubles.
                             </div>
                         </div>
@@ -614,9 +614,9 @@ include('./inc/testimonial.php');
                         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
                             data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">Our
-                                <Link to="/offshore-web-hosting/" className="faq-link">
+                                <a href="/offshore-web-hosting.php" className="faq-link">
                                 cheapest offshore hosting
-                                </Link>
+                                </a>
                                 plans are specially designed to protect your identity and privacy. So
                                 that you can host any DMCA ignored content on your website, and we will
                                 ensure that your identity is untraceable on the internet
@@ -661,7 +661,7 @@ include('./inc/testimonial.php');
                         <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
                             data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">DMCA ignored hosting may be the right choice for you if you’re looking for a reliable host. This type of hosting service can offer a variety of benefits that can help protect your website and ensure smooth operation. DMCA ignored VPS has one of its main benefits: it offers greater privacy and security for your site. These providers aren’t bound by the Digital Millennium Copyright Act, which means they have more flexibility and freedom in hosting content. This allows you to host any content without fear of legal consequences. To understand more in detail, refer this blogpost:
-                                <Link to="https://qloudhost.com/blog/benefits-of-dmca-ignored-hosting/" className="faq-link">https://qloudhost.com/blog/benefits-of-dmca-ignored-hosting/</Link>
+                                <a href="https://qloudhost.com/blog/benefits-of-dmca-ignored-hosting/" className="faq-link">https://qloudhost.com/blog/benefits-of-dmca-ignored-hosting/</a>
                             </div>
                         </div>
                     </div>

@@ -15,7 +15,6 @@
 } */
 
 
-
 *,
 html,
 body {
@@ -1048,9 +1047,11 @@ grid-row-gap: 0px;
 
 .nav-banner{
   position: sticky;
-  top: 38px;
+  top: 0px;
   z-index: 1000;
   transition: box-shadow 0.3s ease, border-bottom 0.3s ease;
+  border-bottom: 1px solid #f1f1f1;
+  box-shadow: 0 2px 5px -1px rgba(50, 50, 93, .25), 0 1px 3px -1px rgba(0, 0, 0, .3);
 }
 
 .nav-banner.scrolled {
@@ -1070,11 +1071,6 @@ grid-row-gap: 0px;
 .nav-item.dropdown.show .arrow-icon {
   transform: rotate(180deg); /* Rotate arrow when dropdown is open */
 }
-
-/* .nav-option:hover .arrow-icon {
-  transform: rotate(180deg);
-  transition: transform 0.3s ease;
-} */
 
 
 .hero-subTitle{
@@ -1723,7 +1719,7 @@ margin: auto;
 
 @media(max-width: 767px){
   .navbar-brand img {
-    width: 35%;
+    width: 90%;
 }
   .accordion-button {
     font-size: 18px;
@@ -1845,13 +1841,6 @@ grid-template-rows: repeat(5, 1fr);
   .dedicated-save-badge{
     top: 147px;
   }
-}
-
-@media (max-width: 749px){
-  .nav-banner {
-    top: 57px;
-}
-  
 }
 
 

@@ -178,7 +178,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="./assets/img/serviceImg/affiliate-support.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/affiliate-support.svg" alt="affiliate-support" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">24/7 Affiliate Support
                         </div>

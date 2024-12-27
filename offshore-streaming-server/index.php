@@ -78,29 +78,29 @@ include('../inc/navbar.php');
                         <h5 class="card-title mt-3 mb-3">AMD EPYC 7502P (32c/64t)</h5>
                         <h3 class="card-price qloudHostplan-price mb-3">$349.00<span class="price-unit">/month</span></h3>
                         <p class="fw-bold mb-3">Save30% <span class="save-price ms-3"><del>$499.00/mo</del></span></p>
-                        <a href={plan.url} class='dedicated-plan-btn'>
+                        <a href="https://my.qloudhost.com/store/dedicated/amd-epyc-7502p" class='dedicated-plan-btn'>
                         <button class="plan-btn dedicated-plan-btn d-flex justify-content-between mb-4">
                             Buy Now
                             <FaArrowRight class="" />
                         </button></a>
                         <h4 class='mb-3 top-feature'>Top Features</h4>
                         <ul class="list-unstyled mb-4 streaming-server-feature">
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 2.0-3.0 GHz
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 2×1.92 TB NVMe SSD
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 1 Gbit Port Speed
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 256 GB DDR4 ECC*
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> Unmetered Transfer
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 1 IPv4 IP Address
                             </li>
                         </ul>
@@ -108,34 +108,34 @@ include('../inc/navbar.php');
                 </div>
             </div>
 
-            <div key={plan.id} class="col-12 col-md-6 col-lg-6 explore-plan-col">
+            <div class="col-12 col-md-6 col-lg-6 explore-plan-col">
                 <div class="card-body offshore-plan-body position-relative h-100">
                     <div>
                         <h5 class="card-title mt-3 mb-3">AMD EPYC 7551P(32c/64t)</h5>
                         <div class="best-streaming mb-2">On Demand</div>
-                        <a href={plan.url} class='dedicated-plan-btn'>
+                        <a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2" class='dedicated-plan-btn'>
                         <button class="plan-btn dedicated-plan-btn d-flex justify-content-between mb-4">
                             Buy Now
                             <FaArrowRight class="" />
                         </button></a>
                         <h4 class='mb-3 top-feature'>Top Features</h4>
                         <ul class="list-unstyled mb-4 streaming-server-feature">
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 2.0-3.0 GHz
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 100 TB Transfer
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 1 Gbit Port Speed
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 256 GB DDR4 ECC*
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 2x 1.92 TB NVMe SSD
                             </li>
-                            <li key={index} class="mb-2 qloudHostPlan-features">
+                            <li class="mb-2 qloudHostPlan-features">
                                 <i class="fa fa-check check"></i> 1 IPv4 IP Address
                             </li>
                         </ul>

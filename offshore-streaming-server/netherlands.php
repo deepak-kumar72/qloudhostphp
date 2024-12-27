@@ -79,10 +79,10 @@ include('../inc/navbar.php');
 
                   <div class="best-streaming mb-2">On Demand</div>
                   <p class="save-streaming fw-bold mb-3">SAVE 30%<span class="save-price ms-3">Renew at $349.00/mo</span></p>
-                  <Link to={plan.url} class='qloudPlans-btn'>
+                  <a href="https://my.qloudhost.com/store/dedicated/amd-epyc-7502p" class='qloudPlans-btn'>
                   <button class="plan-btn dedicated-plan-btn d-flex justify-content-between mb-4">
                     Buy Now <FaArrowRight class=""/>
-                  </button></Link>
+                  </button></a>
                   <h4 class='mb-3 top-feature'>Top Features</h4>
                   <ul class="list-unstyled mb-4 streaming-server-feature">
                       <li  class="mb-2 streaming-features">
@@ -117,10 +117,10 @@ include('../inc/navbar.php');
 
                   <div class="best-streaming mb-2">On Demand</div>
                   <p class="save-streaming fw-bold mb-3">SAVE 30%</p>
-                  <Link to={plan.url} class='qloudPlans-btn'>
+                  <a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2" class='qloudPlans-btn'>
                   <button class="plan-btn dedicated-plan-btn d-flex justify-content-between mb-4">
                     Buy Now <FaArrowRight class=""/>
-                  </button></Link>
+                  </button></a>
                   <h4 class='mb-3 top-feature'>Top Features</h4>
                   <ul class="list-unstyled mb-4 streaming-server-feature">
                   <li  class="mb-2 streaming-features">
@@ -152,10 +152,10 @@ include('../inc/navbar.php');
                 <div>
                   <h5 class="card-title mt-3 mb-3">Intel Xeon Gold 6230</h5>
                   <h3 class="card-price qloudHostplan-price mb-3">$399.00<span class="price-unit">/month</span></h3>
-                  <Link to={plan.url} class='qloudPlans-btn'>
+                  <a href="https://my.qloudhost.com/store/dedicated/intel-xeon-gold-6230" class='qloudPlans-btn'>
                   <button class="plan-btn dedicated-plan-btn d-flex justify-content-between mb-4">
                     Buy Now <FaArrowRight class=""/>
-                  </button></Link>
+                  </button></a>
                   <h4 class='mb-3 top-feature'>Top Features</h4>
                   <ul class="list-unstyled mb-4 streaming-server-feature">
                       <li  class="mb-2 streaming-features">
@@ -321,7 +321,7 @@ include('../inc/technicalSpecification.php');
               Guaranteed protection in the Netherlands
             </h2>
             <p class="">
-              <Link to='/' class='faq-link'>QloudHost</Link> presents a diverse selection of Netherlands Media
+              <a href='/' class='faq-link'>QloudHost</a> presents a diverse selection of Netherlands Media
               Streaming Servers featuring cutting-edge hardware. Our servers are
               finely tuned for robust load balancing and unmetered resources,
               ensuring your dependable streaming services.
@@ -331,7 +331,7 @@ include('../inc/technicalSpecification.php');
               allowing you to concentrate on your media streaming without
               concerns about the technical backend. Stream with confidence!
             </p>
-            <a to="explore" smooth={true} duration={200}>
+            <a href="explore" smooth={true} duration={200}>
               <button class="btn start-now-btn mt-3">
                 Get Started Now <FaArrowRight class="ms-2" />
               </button>
@@ -359,7 +359,7 @@ include('../inc/technicalSpecification.php');
               ideal solution for all your streaming requirements.
             </p>
 
-            <a to="explore" smooth={true} duration={200}>
+            <a href="explore" smooth={true} duration={200}>
               <button class="btn start-now-btn mt-3">
                 Get Started Now <FaArrowRight class="ms-2" />
               </button>

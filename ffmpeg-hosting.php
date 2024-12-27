@@ -203,7 +203,7 @@ include('./inc/technicalSpecification.php');
             <p class="">
             FFmpeg Hosting is optimized for seamless video and audio processing, featuring pre-configured FFmpeg libraries and powerful hardware. It’s built to handle demanding transcoding tasks efficiently, ensuring smooth media workflows with minimal latency and maximum performance for your video and audio projects.
             </p>
-            <a to="#explore" smooth={true} duration={200}>
+            <a href="#explore" smooth={true} duration={200}>
               <button class="btn start-now-btn mt-3">
                 Get Started Now <i class="ms-4 fa fa-arrow-right"></i>
               </button>
@@ -222,7 +222,7 @@ include('./inc/technicalSpecification.php');
             <p class="">
             Easily scale your resources as your media needs expand. Whether it’s adding more storage or boosting CPU power, our FFmpeg Hosting ensures your environment evolves seamlessly, adapting to the increasing demands of your growing project. Keep performance high and efficient, no matter how large your media workload becomes.
             </p>
-            <a to="#explore" smooth={true} duration={200}>
+            <a href="#explore" smooth={true} duration={200}>
               <button class="btn start-now-btn mt-3">
                 Get Started Now <i class="ms-4 fa fa-arrow-right"></i>
               </button>

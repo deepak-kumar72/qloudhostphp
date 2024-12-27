@@ -9,7 +9,7 @@ include('../inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
                         Netherlands Offshore VPS
                     </h4>
                     <h1 class="mb-4">Powerful Netherlands Offshore VPS</h1>
@@ -35,7 +35,7 @@ include('../inc/navbar.php');
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -43,7 +43,7 @@ include('../inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="../assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
@@ -61,7 +61,7 @@ include('../inc/navbar.php');
 
 
 
-<div class="hosting-plan mb-5">
+<div class="hosting-plan mb-5" id="explore">
     <div class="container plan-sec mt-5">
         <h2 class="text-center m-auto mb-3">Netherlands Offshore VPS Hosting Plans & Pricing</h2>
         <p class="text-center mb-5 planHead-con m-auto">Amsterdam, Netherlands Offshore VPS Hosting servers offer the best
@@ -92,7 +92,7 @@ include('../inc/navbar.php');
             <div class="col-md-4 mb-4 mb-md-0 guarantee-item d-flex">
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/icon/pre-install-os.svg' alt="SSD Icon" class='qloudGurantee-img' />
+                        <img src='../assets/img/icon/pre-install-os.svg' alt="SSD Icon" class='qloudGurantee-img' />
                     </div>
                     <h5>Pre-Installed OS</h5>
                     <p>
@@ -104,7 +104,7 @@ include('../inc/navbar.php');
             <div class="col-md-4 mb-4 mb-md-0 guarantee-item d-flex">
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/icon/netherlands.svg' alt="Netherlands Icon" class='qloudGurantee-img' />
+                        <img src='../assets/img/icon/netherlands.svg' alt="Netherlands Icon" class='qloudGurantee-img' />
                     </div>
                     <h5>Hosted in Netherlands</h5>
                     <p>
@@ -118,7 +118,7 @@ include('../inc/navbar.php');
                 <div class="vertical-divider"></div>
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/icon/money-back.svg' alt="Support Icon" class='qloudGurantee-img' />
+                        <img src='../assets/img/icon/money-back.svg' alt="Support Icon" class='qloudGurantee-img' />
                     </div>
                     <h5>14 Days Money Back</h5>
                     <p>
@@ -188,7 +188,7 @@ include('../inc/technicalSpecification.php');
     <div class="container">
         <div class="row align-items-center mb-3">
             <div class="col-md-6 mb-4 text-center">
-                <img src='/assets/feature/on-demand-scalibility.webp' alt="On-Demand Scalability" class="img-fluid" />
+                <img src='../assets/img/feature/on-demand-scalibility.webp' alt="On-Demand Scalability" class="img-fluid" />
             </div>
             <div class="col-md-6 feature-element-sec">
                 <h2>On-Demand Scalability</h2>
@@ -207,7 +207,7 @@ include('../inc/technicalSpecification.php');
                     <a href='/offshore-dedicated-server/' class="faq-link">upgrade</a> or
                     downgrade your resources at any time.
                 </p>
-                <a href="explore" smooth={true} duration={200}>
+                <a href="#explore" smooth={true} duration={200}>
                     <button class="btn start-now-btn mt-3">
                         Get Started Now
                         <FaArrowRight class="ms-2" />
@@ -218,7 +218,7 @@ include('../inc/technicalSpecification.php');
 
         <div class="row align-items-center mb-3">
             <div class="col-md-6 order-md-2 mb-3 text-center">
-                <img src='/assets/feature/migrate-fast-free.webp' alt="Migrate fast" class="img-fluid" />
+                <img src='../assets/img/feature/migrate-fast-free.webp' alt="Migrate fast" class="img-fluid" />
             </div>
             <div class="col-md-6 order-md-1 feature-element-sec">
                 <h2 class="mb-3 w-100">Migrate fast and free</h2>
@@ -233,7 +233,7 @@ include('../inc/technicalSpecification.php');
                     your old web hosting, where we find your website data (website
                     files or databases, emails, etc.).
                 </p>
-                <a href="explore" smooth={true} duration={200}>
+                <a href="#explore" smooth={true} duration={200}>
                     <button class="btn start-now-btn mt-3">
                         Get Started Now
                         <FaArrowRight class="ms-2" />
@@ -255,7 +255,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/privacy-protection_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/privacy-protection_1.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">100% Privacy Protection
                         </div>
@@ -269,7 +269,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/fair-and-affordable.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/fair-and-affordable.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Fair & Affordable
                         </div>
@@ -283,7 +283,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Full Root Access
                         </div>
@@ -297,7 +297,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">99.9% uptime guaranteed
                         </div>
@@ -311,7 +311,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/free-website-migration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/feature/free-website-migration.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Free Website Migration
                         </div>
@@ -327,7 +327,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/weekly-backup_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/weekly-backup_1.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Weekly Backup
                         </div>
