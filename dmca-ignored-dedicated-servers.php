@@ -281,8 +281,8 @@ include('./inc/websiteCover.php');
                         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                             data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">Yes, We provide completely flexible
-                                <Link to='/offshore-vps-hosting/' className="faq-link">offshore VPS servers</Link> that can be easily upgraded to as many resources as possible! You just need to
-                                <Link to='/contact-us/' className="faq-link">contact our team</Link> of highly trained experts, explain your needs and they will upgrade your servers easily to the best managed DMCA Ignored dedicated server without any hidden charges.
+                                <a href='/offshore-vps-hosting/' className="faq-link">offshore VPS servers</a> that can be easily upgraded to as many resources as possible! You just need to
+                                <a href='/contact-us/' className="faq-link">contact our team</a> of highly trained experts, explain your needs and they will upgrade your servers easily to the best managed DMCA Ignored dedicated server without any hidden charges.
                             </div>
                         </div>
                     </div>
@@ -297,7 +297,7 @@ include('./inc/websiteCover.php');
                         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
                             data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">Yes, We offer completely free-of-cost migration for up to 5 GB* without causing any data loss. Moreover, we do not put any additional charges or hidden charges, but in case your website files have surpassed 5GB of data, then it will be chargeable as guided by our
-                                <Link to='/privacy-policy/' className="faq-link"> policies</Link>.
+                                <a href='/privacy-policy/' className="faq-link"> policies</a>.
                             </div>
                         </div>
                     </div>
@@ -342,7 +342,7 @@ include('./inc/websiteCover.php');
                         <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
                             data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">If you are planning to
-                                <Link to='https://qloudhost.com/blog/host-a-website-anonymously/' className="faq-link"> host your website without losing your anonymity</Link>, then choosing an offshore DMCA Dedicated server will be the best pick for you!! Moreover, we mentioned some more points below that will help you to understand everything in detail.
+                                <a href='https://qloudhost.com/blog/host-a-website-anonymously/' className="faq-link"> host your website without losing your anonymity</a>, then choosing an offshore DMCA Dedicated server will be the best pick for you!! Moreover, we mentioned some more points below that will help you to understand everything in detail.
                                 <ul>
                                     <li>Full privacy assurance</li>
                                     <li>Unmetered resources</li>
@@ -352,7 +352,7 @@ include('./inc/websiteCover.php');
                                     <li>Freedom of Speech</li>
                                 </ul>
                                 See the
-                                <Link to='https://qloudhost.com/blog/benefits-of-offshore-dedicated-server-hosting/' className="faq-link">benefits of DMCA Dedicated Servers</Link> and decide for yourself if it’s the right call for you.
+                                <a href='https://qloudhost.com/blog/benefits-of-offshore-dedicated-server-hosting/' className="faq-link">benefits of DMCA Dedicated Servers</a> and decide for yourself if it’s the right call for you.
                             </div>
                         </div>
                     </div>

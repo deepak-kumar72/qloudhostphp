@@ -145,7 +145,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-starter?billingcycle=triennially">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -204,7 +204,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-business?billingcycle=triennially&currency=1">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -263,7 +263,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-premium?billingcycle=triennially&currency=1">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -329,7 +329,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-starter?billingcycle=annually">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -388,7 +388,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-business?billingcycle=annually&currency=1">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -447,7 +447,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-premium?billingcycle=annually&currency=1">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -513,7 +513,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-starter?billingcycle=monthly">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -572,7 +572,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-business?billingcycle=monthly">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>
@@ -631,7 +631,7 @@ include('./inc/navbar.php');
                                             <i class="fa fa-check check"></i> Softaculous
                                         </li>
                                     </ul>
-                                    <a href={plan.url}>
+                                    <a href="https://my.qloudhost.com/store/wordpress-hosting/wp-premium?billingcycle=monthly">
                                         <button class="plan-btn">Get Started</button>
                                     </a>
                                 </div>

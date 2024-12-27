@@ -268,7 +268,7 @@ include('../inc/websiteCover.php');
                         </h2>
                         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">An
-                                <Link to="https://qloudhost.com/blog/what-is-offshore-dedicated-server-hosting/" className="faq-link">offshore dedicated server</Link>
+                                <a href="https://qloudhost.com/blog/what-is-offshore-dedicated-server-hosting/" class="faq-link">offshore dedicated server</a>
                                 is a type of hosting service that provides you
                                 full privacy assurance, impenetrable security and untraceable footprints
                                 on the internet!! In addition, dedicated offshore server unmetered come
@@ -287,9 +287,9 @@ include('../inc/websiteCover.php');
                         </h2>
                         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Yes, We provide completely flexible <Link to='/offshore-vps-hosting/' className="faq-link">offshore VPS servers</Link> that can be
+                            <div class="accordion-body">Yes, We provide completely flexible <a href='/offshore-vps-hosting/' class="faq-link">offshore VPS servers</a> that can be
         easily upgraded to as many resources as possible! You just need to
-        <Link to='/contact-us/' className="faq-link">contact our team</Link>  of highly trained experts, explain your needs and they
+        <a href='/contact-us/' class="faq-link">contact our team</a>  of highly trained experts, explain your needs and they
         will upgrade your servers easily to the best managed dedicated server
         without any hidden charges.
                             </div>
@@ -305,7 +305,7 @@ include('../inc/websiteCover.php');
                         </h2>
                         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Yes, We offer completely free-of-cost migration for up to 5 GB* without causing any data loss. Moreover, we do not put any additional charges or hidden charges, but in case your website files have surpassed 5GB of data, then it will be chargeable as guided by <Link to='/privacy-policy/' className="faq-link">our policies</Link>
+                            <div class="accordion-body">Yes, We offer completely free-of-cost migration for up to 5 GB* without causing any data loss. Moreover, we do not put any additional charges or hidden charges, but in case your website files have surpassed 5GB of data, then it will be chargeable as guided by <a href='/privacy-policy/' class="faq-link">our policies</a>
                             </div>
                         </div>
                     </div>
@@ -319,7 +319,7 @@ include('../inc/websiteCover.php');
                         </h2>
                         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
                             data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">IIt totally depends upon your website’s files. For example, if you are planning to host a high-traffic blogging or business website that contains multiple posts, high graphics images and videos, then we will recommend you host only 1 or 2 websites on our <Link to='/offshore-dedicated-servers/netherlands/' className="faq-link">Offshore Server in Netherlands</Link>  Offshore Location.
+                            <div class="accordion-body">IIt totally depends upon your website’s files. For example, if you are planning to host a high-traffic blogging or business website that contains multiple posts, high graphics images and videos, then we will recommend you host only 1 or 2 websites on our <a href='/offshore-dedicated-servers/netherlands/' class="faq-link">Offshore Server in Netherlands</a>  Offshore Location.
                             </div>
                         </div>
                     </div>
@@ -349,7 +349,7 @@ include('../inc/websiteCover.php');
                         <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
                             data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">If you are planning to
-                                <Link to='https://qloudhost.com/blog/host-a-website-anonymously/' className="faq-link"> host your website without losing your anonymity</Link>, then choosing an offshore DMCA Dedicated server will be the best pick for you!! Moreover, we mentioned some more points below that will help you to understand everything in detail.
+                                <a href='https://qloudhost.com/blog/host-a-website-anonymously/' class="faq-link"> host your website without losing your anonymity</a>, then choosing an offshore DMCA Dedicated server will be the best pick for you!! Moreover, we mentioned some more points below that will help you to understand everything in detail.
                                 <ul>
                                     <li>Full privacy assurance</li>
                                     <li>Unmetered resources</li>
@@ -359,7 +359,7 @@ include('../inc/websiteCover.php');
                                     <li>Freedom of Speech</li>
                                 </ul>
                                 See the
-                                <Link to='https://qloudhost.com/blog/benefits-of-offshore-dedicated-server-hosting/' className="faq-link">benefits of DMCA Dedicated Servers</Link> and decide for yourself if it’s the right call for you.
+                                <a href='https://qloudhost.com/blog/benefits-of-offshore-dedicated-server-hosting/' class="faq-link">benefits of DMCA Dedicated Servers</a> and decide for yourself if it’s the right call for you.
                             </div>
                         </div>
                     </div>

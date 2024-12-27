@@ -34,35 +34,35 @@
                             <h5 class='menu-head'>Our Services</h5>
                             <ul class="list-unstyled">
                                 <li >
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='/offshore-web-hosting.php' class="text-light text-decoration-none footer-menu">
                                     Offshore Web Hosting
                                     </a>
                                 </li>
                                 <li >
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='/offshore-wordpress-hosting.php' class="text-light text-decoration-none footer-menu">
                                     Offshore WordPress Hosting
                                     </a>
                                 </li>
                                 <li >
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='/offshore-vps-hosting/' class="text-light text-decoration-none footer-menu">
                                     Offshore VPS Hosting
                                     </a>
                                 </li>
                                 <li >
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='/offshore-dedicated-servers/' class="text-light text-decoration-none footer-menu">
                                     Offshore Dedicated Serve
                                     </a>
                                 </li>
                                 <li >
 
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='/offshore-video-hosting.php' class="text-light text-decoration-none footer-menu">
                                     Offshore Video Hosting
                                     </a>
                                 </li>
 
                                 <li >
 
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='/offshore-streaming-server/' class="text-light text-decoration-none footer-menu">
                                     Offshore Streaming Server
                                     </a>
                                 </li>
@@ -74,7 +74,7 @@
                                 </li>
                                 <li >
 
-                                    <a href='' class="text-light text-decoration-none footer-menu">
+                                    <a href='/offshore-vps-hosting/netherlands.php' class="text-light text-decoration-none footer-menu">
                                     Netherlands Offshore VPS
                                     </a>
                                 </li>
@@ -103,12 +103,12 @@
                                     </a>
                                 </li>
                                 <li >
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="/offshore-vps-hosting/windows-rdp.php" class="text-light text-decoration-none footer-menu">
                                     Offshore Windows RDP
                                     </a>
                                 </li>
                                 <li >
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="/ffmpeg-hosting.php" class="text-light text-decoration-none footer-menu">
                                     FFmpeg Hosting
                                     </a>
                                 </li>
@@ -201,7 +201,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="" class="text-light text-decoration-none footer-menu">
+                                    <a href="/sitemap.xml" class="text-light text-decoration-none footer-menu">
                                     Sitemap
                                     </a>
                                 </li>
@@ -235,7 +235,7 @@
                 </div>
 
                 <div class='col-lg-6 col-12 pay-optionimg'>
-                    <Image src='../assets/img/pay_img.png' alt='payment_option' width={1000}
+                    <Image src='/assets/img/pay_img.png' alt='payment_option' width={1000}
                         height={1000} class='h-100 w-75' />
 
                 </div>

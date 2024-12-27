@@ -48,7 +48,7 @@ if (!isset($meta_data[$page])) {
 </head>
 
 <body>
-
+<div class="nav-banner">
 <div class="top-nav bg">
 <div class="container-fluid">
             <div class="row text-center p-2 top-content">
@@ -60,7 +60,7 @@ if (!isset($meta_data[$page])) {
             </div>
         </div>
     </div>
-    <div class="nav-banner">
+    <div class="">
         <nav class="navbar navbar-expand-lg bg-white">
             <div class="container mx-5 nav-section">
                 <a class="navbar-brand" href="/">
@@ -131,6 +131,7 @@ if (!isset($meta_data[$page])) {
                 </div>
             </div>
         </nav>
+    </div>
     </div>
 </body>
 
