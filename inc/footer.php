@@ -7,22 +7,18 @@
                     Host your website with the best Offshore hosting server at QloudHost and get full privacy assurance. We understand the value of your data privacy that’s why we provide you services with impenetrable security!
                 </p>
                 <div class='footer-icon'>
-                    <!-- <a href="https://www.facebook.com/qloudhost">
-                    <FaFacebookF class='social-footer-icon' />
+                    <a href="https://www.facebook.com/qloudhost" rel="nofollow">
+                    <i class="fa-brands fa-facebook-f  social-footer-icon"></i>
                     </a>
-                    <a href='https://www.linkedin.com/company/qloudhost/'>
-                    <FaLinkedinIn class='social-footer-icon' />
+                    <a href='https://www.linkedin.com/company/qloudhost/' rel="nofollow">
+                    <i class="fa-brands fa-linkedin-in social-footer-icon"></i>
                     </a>
-                    <a href="https://instagram.com/qloudhost">
-                    <FaInstagram class='social-footer-icon' />
+                    <a href="https://instagram.com/qloudhost" rel="nofollow">
+                    <i class="fa-brands fa-instagram social-footer-icon"></i>
                     </a>
-                    <a href='https://www.pinterest.com/qloudhost/'>
-                    <FaPinterest class='social-footer-icon' />
+                    <a href='https://www.pinterest.com/qloudhost/' rel="nofollow">
+                    <i class="fa-brands fa-pinterest social-footer-icon"></i>
                     </a>
-                   
-                    <a href="">
-                    <FaYoutube class='social-footer-icon' />
-                    </a>  -->
 
 
                 </div>

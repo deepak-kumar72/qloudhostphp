@@ -11,33 +11,33 @@ include('./inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
                         Buy DMCA Ignored Dedicated Server
                     </h4>
                     <h1 class="mb-4">Best DMCA Ignored Dedicated Server</h1>
                     <p class="mb-4">Supercharge your site with QloudHost’s DMCA Ignored dedicated servers! Enjoy top-tier security, performance, and control—all at an unbeatable price. Focus on growth while we handle the rest.</p>
                     <div class="hero-options-container mb-4">
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Flexibility and Control</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Weekly Backup</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Fast, Secure, Reliable</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Multi-Layer Defense</span>
                         </div>
                     </div>
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -45,7 +45,7 @@ include('./inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="./assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
@@ -61,7 +61,7 @@ include('./inc/navbar.php');
 </div>
 
 
-<div class="hosting-plan mb-5">
+<div class="hosting-plan mb-5" id="explore">
     <div class=" plan-sec mt-5">
         <h2 class="text-center m-auto mb-3">DMCA Ignored Dedicated Server Hosting Plans and Prices</h2>
         <p class="text-center mb-5 planHead-con m-auto">DMCA Ignored dedicated servers offer the best performance and the highest level of security for any website or application. Invest in a dedicated server with no resource sharing and experience top-notch performance at an affordable price.
@@ -105,7 +105,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/powerful-configration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/powerful-configration.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Powerful Configurations
                         </div>
@@ -119,7 +119,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Full Root Access
                         </div>
@@ -133,7 +133,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/powerful-configration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/powerful-configration.svg" alt="powerful-configration" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Free Setup with All Servers
                         </div>
@@ -147,7 +147,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/data-center.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/data-center.svg" alt="data-center" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Amsterdam, Netherlands Data Center
                         </div>
@@ -161,7 +161,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/24x7-server-monitoring.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/24x7-server-monitoring.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">24/7 Server monitoring
                         </div>
@@ -175,7 +175,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/powered-by-direct-admin.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/powered-by-direct-admin.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Managed with DirectAdmin
                         </div>

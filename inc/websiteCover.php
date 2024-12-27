@@ -18,8 +18,8 @@
                         <div class='card-text service-desc mb-1'><i class="fa fa-check check me-2 cover-opt"></i>Step by step tutorials</div>
                         <div class='card-text service-desc mb-1'><i class="fa fa-check check me-2 cover-opt"></i>24/7/365 Premium Support</div>
                     <div>
-                      <a href={service.buttonLink} class='btn start-now-btn start-now mt-3'>
-                      Get Started <FaArrowRight class="ms-2" />
+                      <a href="#explore" class='btn start-now-btn start-now mt-3'>
+                      Get Started <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                       </a>
                     </div>
                   </div>
@@ -41,8 +41,8 @@
                     <div class='card-text service-desc mb-1'><i class="fa fa-check check me-2 cover-opt"></i>Free Setup</div>
                     <div class='card-text service-desc mb-1'><i class="fa fa-check check me-2 cover-opt"></i>24/7/365 Premium Support</div>
                     <div>
-                      <a href={service.buttonLink} class='btn start-now-btn start-now mt-3'>
-                        Get Started <FaArrowRight class="ms-2" />
+                      <a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2" class='btn start-now-btn start-now mt-3'>
+                        Get Started <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                       </a>
                     </div>
                   </div>

@@ -20,7 +20,7 @@
               </ul>
             </div>
             <div  class="col-md-12 col-lg-6 text-center">
-             <img src='../assets/img/Offshore-Dedicated-Web-Hosting-Solutions.png' alt='offshore-dedicated-server' class='hostingSolImg' />
+             <img src='/assets/img/Offshore-Dedicated-Web-Hosting-Solutions.png' alt='offshore-dedicated-server' class='hostingSolImg' />
             </div>
         </div>
       </div>

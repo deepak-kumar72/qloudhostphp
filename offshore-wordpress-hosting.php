@@ -64,7 +64,7 @@ include('./inc/navbar.php');
 <!-- Offshore Wordpress plan section -->
 
 
-<div class="hosting-plan mb-5">
+<div class="hosting-plan mb-5" id="explore">
     <div class="container plan-sec mt-5">
         <h2 class="text-center m-auto mb-3">
             Powerfull Offshore WordPress Hosting Plans
@@ -91,7 +91,7 @@ include('./inc/navbar.php');
         <div class="tab-content" id="pills-tabContent">
             <!-- 3 Year Plan  -->
             <div class="tab-pane fade show active" id="pills-three-year" role="tabpanel" aria-labelledby="pills-three-year-tab" tabindex="0">
-                <div class="row home-plan justify-content-center" id="explore">
+                <div class="row home-plan justify-content-center" >
 
                     <div class="col-12 col-md-6 col-lg-4  mb-4 explore-plan-col">
                         <div class="h-100">

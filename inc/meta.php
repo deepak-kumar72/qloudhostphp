@@ -754,7 +754,8 @@ $meta_data = [
   'coupons' => [
       'title' => "QloudHost Coupon Codes and Promotion- Save Big on DMCA Hostings",
       'description' => "Save money on your DMCA offshore hosting needs with QloudHost’s exclusive coupon codes. Get access to unbeatable discounts and start saving today!",
-      'keywords' => ""
+      'keywords' => "",
+      'schema' => ''
   ],
 
   'affiliates' => [
@@ -767,7 +768,8 @@ $meta_data = [
   'privacy-policy' => [
       'title' => "Privacy Policy- QloudHost",
       'description' => "Get your offshore VPS hosting today! With instant setup, untraceable footprints and full data protection.",
-      'keywords' => ""
+      'keywords' => "",
+      'schema' => ''
   ],
 
   'terms' => [

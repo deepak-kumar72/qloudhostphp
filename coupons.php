@@ -17,7 +17,7 @@ include('./inc/navbar.php');
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -25,14 +25,14 @@ include('./inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="./assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
             </div>
             <div class="col-md-6 m-auto">
                 <div class="hero-image-container position-relative text-end w-100 h-100">
-                    <img src="./assets/img/Frame/" alt="" class="hero-frame h-100 w-100" />
+                    <img src="./assets/img/Frame/qloudhost-coupon-codes.webp" alt="qloudhost-coupon-codes" class="hero-frame h-100 w-100" />
                     <div class="features"></div>
                 </div>
             </div>

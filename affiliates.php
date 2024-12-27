@@ -11,7 +11,7 @@ include('./inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
                         Best DMCA Ignored Hosting Affiliate
                     </h4>
                     <h1 class="mb-4">Earn Money with QloudHost</h1>
@@ -19,7 +19,7 @@ include('./inc/navbar.php');
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -27,14 +27,14 @@ include('./inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="./assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
             </div>
             <div class="col-md-6 m-auto">
                 <div class="hero-image-container position-relative text-end w-100 h-100">
-                    <img src="./assets/img/Frame/" alt="" class="hero-frame h-100 w-100" />
+                    <img src="./assets/img/Frame/heroImg_affiliate.webp" alt="" class="hero-frame h-100 w-100" />
                     <div class="features"></div>
                 </div>
             </div>
@@ -56,7 +56,7 @@ include('./inc/navbar.php');
               <div class="card shadow-sm h-100">
                 <div class='card-body'>
                   <div class="mb-3">
-                    <span class='check-symbol'><FaRegCircleCheck class="me-2 option-icon" /></span> 
+                    <span class='check-symbol'><i class="fa-regular fa-circle-check me-2 option-icon"></i></span> 
                   </div>
                   <h5 class='method-title'>Sign Up</h5>
                   <p class='card-method-text'>Click Here and fill up your details.</p>
@@ -67,7 +67,7 @@ include('./inc/navbar.php');
               <div class="card shadow-sm h-100">
                 <div class='card-body'>
                   <div class="mb-3">
-                    <span class='check-symbol'><FaRegCircleCheck class="me-2 option-icon" /></span> 
+                    <span class='check-symbol'><i class="fa-regular fa-circle-check me-2 option-icon"></i></span> 
                   </div>
                   <h5 class='method-title'>Promote QloudHost</h5>
                   <p class='card-method-text'>Get the referral as and promote our services to your audience.</p>
@@ -78,7 +78,7 @@ include('./inc/navbar.php');
               <div class="card shadow-sm h-100">
                 <div class='card-body'>
                   <div class="mb-3">
-                    <span class='check-symbol'><FaRegCircleCheck class="me-2 option-icon" /></span> 
+                    <span class='check-symbol'><i class="fa-regular fa-circle-check me-2 option-icon"></i></span> 
                   </div>
                   <h5 class='method-title'>Get Paid</h5>
                   <p class='card-method-text'>We share revenue fairly. Every eligible sale made earns you at least 20% commissions. And that’s just the start.</p>
@@ -89,7 +89,7 @@ include('./inc/navbar.php');
 
         <div class="mt-4 text-center">
           <a href="https://my.qloudhost.com/register.php" class="btn start-now-btn ">
-            Signup Now <FaArrowRight class="ms-4" />
+            Signup Now <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
           </a>
         </div>
       </div>
@@ -108,7 +108,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/free-registration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/free-registration.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Free Registration
                         </div>
@@ -122,7 +122,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="assets/serviceImg/high-conversion-rate.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/high-conversion-rate.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">High Conversion Rate
                         </div>
@@ -136,7 +136,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/advanced-tracking-url.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/advanced-tracking-url.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Advanced Tracking URLs
                         </div>
@@ -150,7 +150,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/eye-catchy-ads.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/eye-catchy-ads.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Eye-Catchy Ads Banners
                         </div>
@@ -164,7 +164,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/easy-to-use.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/easy-to-use.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Easy to Use Dashboard
                         </div>
@@ -178,7 +178,7 @@ include('./inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/affiliate-support.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="./assets/img/serviceImg/affiliate-support.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">24/7 Affiliate Support
                         </div>

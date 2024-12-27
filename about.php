@@ -24,7 +24,6 @@ include('./inc/navbar.php');
 </div>
 
 
-
 <div class="privacy-hardware-container mt-5">
     <div class="container">
 
@@ -95,7 +94,7 @@ include('./inc/navbar.php');
         <a href='/' class="btn-primary  m-auto d-flex justify-content-center">
             <button class="btn-primary start-now-btn enterprise-btn me-3">
                 Get Started Now
-                <FaArrowRight class="ms-4 start-now-icon" />
+                <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
             </button>
         </a>
     </div>
@@ -142,7 +141,7 @@ include('./inc/navbar.php');
               <img src="./assets/img/technology-Partners/nodejs.png" alt="tech Partners" class='img-fluid' />
             </div>
             <div class='techPartnerImg m-2'>
-              <img src="./assets/img/technology-Partners/php.png'" alt="tech Partners" class='img-fluid' />
+              <img src="./assets/img/technology-Partners/php.png" alt="tech Partners" class='img-fluid' />
             </div>
             <div class='techPartnerImg m-2'>
               <img src="./assets/img/technology-Partners/softaculous.png" alt="tech Partners" class='img-fluid' />
@@ -170,6 +169,64 @@ include('./inc/navbar.php');
     </div>
 
 
+    
+<div class='resource-section p-1'>
+    <div class="container my-4">
+        <h2 class="text-center mb-3 m-auto">Resources and Insights</h2>
+        <p class="text-center w-75 m-auto mb-5 sub-heading">
+            Experience our superior support, robust infrastructure, and unmatched reliability. We are the trusted choice for DMCA ignored critical websites and apps.
+        </p>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <span class="badge-title">OFFSHORE WEB HOSTING</span>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            $3.50
+                            <small>/month</small>
+                        </h3>
+                        <p class="text-muted mb-4">Renews at Same Price</p>
+                        <p class='plan-resource-desc mb-4'>Best & Cheap offshore hosting for bloggers, businesses, and Startups site.</p>
+                        <a href=""> <button class="btn w-100 start-free-btn fw-blod">
+                                Get started for free</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <span class="badge-title">OFFSHORE WORDPRESS HOSTING</span>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            $4.39
+                            <small>/month</small>
+                        </h3>
+                        <p class="text-muted mb-4">Renews at Same Price</p>
+                        <p class='plan-resource-desc mb-4'>Fully Optimized for WordPress Offshore Hosting for top speed and cheap price</p>
+                        <a href=""> <button class="btn w-100 start-free-btn fw-blod">
+
+                                Get started for free</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <span class="badge-title">OFFSHORE VPS HOSTING</span>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            $18.99
+                            <small>/month</small>
+                        </h3>
+                        <p class="text-muted mb-4">Renews at Same Price</p>
+                        <p class='plan-resource-desc mb-4'>Robust and Flexible For large & growing Business sites with more room to Play.</p>
+                        <a href=""> <button class="btn w-100 start-free-btn fw-blod">
+
+                                Get started for free</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <?php

@@ -216,23 +216,23 @@ include('../inc/dedicatedHostingSolution.php');
             <div class="col-md-5">
                 <div class="d-flex flex-column align-items-center gap-3 panel-item">
                     <div class="panel-opt">
-                        <img src="./assets/img/icon/cPanel.png" alt="icon" class="h-100" />
+                        <img src="../assets/img/icon/cPanel.png" alt="icon" class="h-100" />
                         cPanel
                     </div>
                     <div class="panel-opt">
-                        <img src="./assets/img/icon/directAdmin.png" alt="icon" class="h-100" />
+                        <img src="../assets/img/icon/directAdmin.png" alt="icon" class="h-100" />
                         DirectAdmin
                     </div>
                     <div class="panel-opt">
-                        <img src="./assets/img/icon/cyberPanel.png" alt="icon" class="h-100" />
+                        <img src="../assets/img/icon/cyberPanel.png" alt="icon" class="h-100" />
                         CyberPanel
                     </div>
                     <div class="panel-opt">
-                        <img src="./assets/img/icon/ubuntu.png" alt="icon" class="h-100" />
+                        <img src="../assets/img/icon/ubuntu.png" alt="icon" class="h-100" />
                         Ubuntu
                     </div>
                     <div class="panel-opt">
-                        <img src="./assets/img/icon/debain.png" alt="icon" class="h-100" />
+                        <img src="../assets/img/icon/debain.png" alt="icon" class="h-100" />
                         Debian
                     </div>
                 </div>

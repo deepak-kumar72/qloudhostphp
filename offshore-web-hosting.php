@@ -635,7 +635,7 @@ include('./inc/technicalSpecification.php');
                     <br /> <br />
                     All this at a price you will love – get any shared server up and running in under a minute with QloudHost!
                 </p>
-                <a to="explore">
+                <a href="#explore">
                     <button class="btn start-now-btn mt-3">
                         Get Started Now
                         <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>

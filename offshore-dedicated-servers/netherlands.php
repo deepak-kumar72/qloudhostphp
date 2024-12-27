@@ -11,33 +11,33 @@ include('../inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
                         Netherlands Offshore Dedicated Server
                     </h4>
                     <h1 class="mb-4">Cheap Netherlands Offshore dedicated Server</h1>
                     <p class="mb-4">Host on a powerful offshore dedicated server in the Netherlands with 99.9% uptime, full root access, low latency, Intel AMD Ryzen, top security, and multiple OS/control panel choices. Expertly assembled.</p>
                     <div class="hero-options-container mb-4">
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Strong Infrastructure</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Enhanced Security</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>NVMe SSD Storage</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                            <i class="fa-regular fa-circle-check me-2 option-icon"></i>
                             <span>Fast, Accurate Responses</span>
                         </div>
                     </div>
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-4 fa fa-arrow-right start-now-icon"></i>
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -45,14 +45,14 @@ include('../inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="../assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
             </div>
             <div class="col-md-6 m-auto">
                 <div class="hero-image-container position-relative text-end w-100 h-100">
-                    <img src="./assets/img/Frame/" alt="" class="hero-frame h-100 w-100" />
+                    <img src="../assets/img/Frame/netherlands-offshore-dedicated-server.webp" alt="" class="hero-frame h-100 w-100" />
                     <div class="features"></div>
                 </div>
             </div>
@@ -104,7 +104,7 @@ include('../inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/powerful-configration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/powerful-configration.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Powerful Configurations
                         </div>
@@ -118,7 +118,7 @@ include('../inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/full-root-access_1.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Full Root Access
                         </div>
@@ -132,7 +132,7 @@ include('../inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/powerful-configration.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/powerful-configration.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Free Setup with All Servers
                         </div>
@@ -146,7 +146,7 @@ include('../inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/data-center.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/data-center.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Amsterdam, Netherlands Data Center
                         </div>
@@ -160,7 +160,7 @@ include('../inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/24x7-server-monitoring.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/24x7-server-monitoring.svg" alt="" class="mb-3 qloudService-img" >
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">24/7 Server monitoring
                         </div>
@@ -174,7 +174,7 @@ include('../inc/navbar.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/powered-by-direct-admin.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/powered-by-direct-admin.svg" alt="" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Managed with DirectAdmin
                         </div>
