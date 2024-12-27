@@ -8,11 +8,10 @@
             </div>
             <div class='col-md-6 m-auto text-center'>
             <a href="javascript:void(0);" onclick="Tawk_API.maximize();">
-                <button class='chat-now-btn start-now-btn me-3 '>
-               
-                    <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i> 
+                <button class='chat-now-btn start-now-btn me-3 '
 
                     Chat Now 
+                    <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i>
                 </button>
                 </a>
                 <a

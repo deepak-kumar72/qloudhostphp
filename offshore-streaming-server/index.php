@@ -11,33 +11,33 @@ include('../inc/navbar.php');
             <div class="col-md-6 m-auto">
                 <div class="hero-content">
                     <h4 class="mb-3 hero-subTitle">
-                        <i class="me-2 sub-title-icon"></i>
+                    <i class="me-2 fa-solid fa-bell sub-title-icon"></i>
                         Offshore Streaming Server
                     </h4>
                     <h1 class="mb-4">Robust offshore Streaming Server</h1>
                     <p class="mb-4">Host your IPTV or movie site offshore in Amsterdam with powerful DMCA-ignored streaming servers. Get 100% uptime, unmetered ports, white-label IP, and a fully redundant network. Secure, reliable, and unshared.</p>
                     <div class="hero-options-container mb-4">
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                        <i class="me-2 option-icon fa-regular fa-circle-check"></i>
                             <span>Fast, Secure, Reliable</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
-                            <span>Strong Infrastructure</span>
-                        </div>
-                        <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                        <i class="me-2 option-icon fa-regular fa-circle-check"></i>
                             <span>DDoS Protection</span>
                         </div>
                         <div class="option-item d-flex align-items-center mb-2">
-                            <i class="me-2 option-icon"></i>
+                        <i class="me-2 option-icon fa-regular fa-circle-check"></i>
+                            <span>Strong Infrastructure</span>
+                        </div>
+                        <div class="option-item d-flex align-items-center mb-2">
+                        <i class="me-2 option-icon fa-regular fa-circle-check"></i>
                             <span>Cost-effective & Scalable</span>
                         </div>
                     </div>
                     <div class="hero-buttons mb-4">
                         <a href="#explore" class="btn btn-primary start-now-btn me-3">
                             Get Started Now
-                            <i class="ms-4 start-now-icon"></i>
+                            <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i> 
                         </a>
 
                         <!-- <a href="" class="btn btn-secondary explore-btn">   
@@ -45,14 +45,14 @@ include('../inc/navbar.php');
 
                     </div>
                     <div class="money-back-text">
-                        <i class="me-2"></i>
+                    <img src="../assets/img/icon/security.png" alt="security-img" width="18px">
                         14-Day Money-Back Guarantee
                     </div>
                 </div>
             </div>
             <div class="col-md-6 m-auto">
                 <div class="hero-image-container position-relative text-end w-100 h-100">
-                    <img src="../assets/img/Frame/" alt="" class="hero-frame h-100 w-100" />
+                    <img src="../assets/img/Frame/robust-offshore-streaming-server.webp" alt="Robust offshore Streaming Server" class="hero-frame h-100 w-100" />
                     <div class="features"></div>
                 </div>
             </div>
@@ -81,7 +81,7 @@ include('../inc/navbar.php');
                         <a href="https://my.qloudhost.com/store/dedicated/amd-epyc-7502p" class='dedicated-plan-btn'>
                         <button class="plan-btn dedicated-plan-btn d-flex justify-content-between mb-4">
                             Buy Now
-                            <FaArrowRight class="" />
+                            <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i> 
                         </button></a>
                         <h4 class='mb-3 top-feature'>Top Features</h4>
                         <ul class="list-unstyled mb-4 streaming-server-feature">
@@ -113,10 +113,11 @@ include('../inc/navbar.php');
                     <div>
                         <h5 class="card-title mt-3 mb-3">AMD EPYC 7551P(32c/64t)</h5>
                         <div class="best-streaming mb-2">On Demand</div>
+
                         <a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2" class='dedicated-plan-btn'>
                         <button class="plan-btn dedicated-plan-btn d-flex justify-content-between mb-4">
                             Buy Now
-                            <FaArrowRight class="" />
+                            <i class="ms-3 start-now-icon fa-solid fa-arrow-right"></i> 
                         </button></a>
                         <h4 class='mb-3 top-feature'>Top Features</h4>
                         <ul class="list-unstyled mb-4 streaming-server-feature">
@@ -159,7 +160,7 @@ include('../inc/navbar.php');
                 <a href="https://my.qloudhost.com/submitticket.php?step=2&deptid=2">
                 <button class=" start-now-btn custom-sol-btn">
                     Contact Us
-                    <FaArrowRight class="ms-2" />
+                    <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i> 
                 </button>
                 </a>
             </div>
@@ -175,7 +176,7 @@ include('../inc/navbar.php');
             <div class="col-md-4 mb-4 mb-md-0 guarantee-item d-flex">
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/feature/ssd.svg' alt="SSD Icon" class='qloudGurantee-img' />
+                        <img src='../assets/img/feature/ssd.svg' alt="SSD Icon" class='qloudGurantee-img' />
                     </div>
                     <h5>Fastest NVMe SSD</h5>
                     <p>
@@ -188,7 +189,7 @@ include('../inc/navbar.php');
             <div class="col-md-4 mb-4 mb-md-0 guarantee-item d-flex">
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/icon/netherlands.svg' alt="Netherlands Icon" class='qloudGurantee-img' />
+                        <img src='../assets/img/icon/netherlands.svg' alt="Netherlands Icon" class='qloudGurantee-img' />
                     </div>
                     <h5>Hosted in Netherlands</h5>
                     <p>
@@ -202,7 +203,7 @@ include('../inc/navbar.php');
                 <div class="vertical-divider"></div>
                 <div class="p-3">
                     <div class="icon mb-3">
-                        <img src='/assets/serviceImg/support.svg' alt="Support Icon" class='qloudGurantee-img'>
+                        <img src='../assets/img/serviceImg/support.svg' alt="Support Icon" class='qloudGurantee-img'>
                     </div>
                     <h5>24/7 Support</h5>
                     <p>
@@ -273,7 +274,7 @@ include('../inc/technicalSpecification.php');
         <div class="row align-items-center mb-5">
             <div class="col-md-6 mb-4 text-center">
                 <img
-                    src='/assets/feature/fast-and-reliable.webp'
+                    src='../assets/img/feature/fast-and-reliable.webp'
                     alt="Fast and Reliable Offshore Video Streaming Server"
                     class="img-fluid m-auto" />
             </div>
@@ -293,7 +294,7 @@ include('../inc/technicalSpecification.php');
                 <a href="#explore" smooth={true} duration={200}>
                     <button class="btn start-now-btn mt-3">
                         Get Started Now
-                        <FaArrowRight class="ms-2" />
+                        <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i> 
                     </button>
                 </a>
             </div>
@@ -301,7 +302,7 @@ include('../inc/technicalSpecification.php');
 
         <div class="row align-items-center mb-5">
             <div class="col-md-6 order-md-2 mb-3 text-center">
-                <img src='/assets/feature/at-qloudhost.webp' alt="At QloudHost, Quality Matters" class="img-fluid" />
+                <img src='../assets/img/feature/at-qloudhost.webp' alt="At QloudHost, Quality Matters" class="img-fluid" />
             </div>
             <div class="col-md-6 order-md-1 feature-element-sec">
                 <h2 class="mb-3 w-100">At QloudHost, Quality Matters</h2>
@@ -321,7 +322,7 @@ include('../inc/technicalSpecification.php');
                 <a href="#explore" smooth={true} duration={200}>
                     <button class="btn start-now-btn mt-3">
                         Get Started Now
-                        <FaArrowRight class="ms-2" />
+                        <i class="ms-2 start-now-icon fa-solid fa-arrow-right"></i> 
                     </button>
                 </a>
             </div>
@@ -340,7 +341,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/secure-offshore-location.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/secure-offshore-location.svg" alt="secure-offshore-location" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">Secure Offshore Location
                         </div>
@@ -354,7 +355,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/anonymous-service.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/anonymous-service.svg" alt="anonymous-service" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">100% Anonymous Service
                         </div>
@@ -368,7 +369,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/os-choice.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/os-choice.svg" alt="os-choice" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">OS Choice
                         </div>
@@ -382,7 +383,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/ddos.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/ddos.svg" alt="ddos" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">DDoS Protection
                         </div>
@@ -396,7 +397,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/feature/uptime.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/feature/uptime.svg" alt="uptime" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">99.9% Uptime
                         </div>
@@ -410,7 +411,7 @@ include('../inc/technicalSpecification.php');
         <div class="col-12 col-md-6 col-lg-4 mb-4">
             <div class="card service-card-body">
                 <div class="p-3">
-                    <img src="/assets/serviceImg/secure-offshore-location.svg" alt="" class="mb-3 qloudService-img" />
+                    <img src="../assets/img/serviceImg/tech-support.svg" alt="tech-support" class="mb-3 qloudService-img" />
                     <div class="qloudservice-desc">
                         <div class="service-title mb-2">24/7 Tech Support
                         </div>
@@ -436,7 +437,7 @@ include('../inc/technicalSpecification.php');
                 <div class="card h-100 shadow-sm service-card">
                     <div class=' d-flex p-4'>
                         <div class="mb-0  text-center me-3">
-                            <img src="/assets/icon/" alt='icon' class='streaming-image-icon'>
+                            <img src="../assets/img/icon/youtube-streaming.svg" alt='icon' class='streaming-image-icon'>
                         </div>
                         <div>
                             <div class='card-title'>YouTube Streaming</div>
@@ -449,7 +450,7 @@ include('../inc/technicalSpecification.php');
                 <div class="card h-100 shadow-sm service-card">
                     <div class=' d-flex p-4'>
                         <div class="mb-0  text-center me-3">
-                            <img src="/assets/icon/game-streaming.svg" alt='icon' class='streaming-image-icon'>
+                            <img src="../assets/img/icon/game-streaming.svg" alt='icon' class='streaming-image-icon'>
                         </div>
                         <div>
                             <div class='card-title'>Game Streaming</div>
@@ -462,7 +463,7 @@ include('../inc/technicalSpecification.php');
                 <div class="card h-100 shadow-sm service-card">
                     <div class=' d-flex p-4'>
                         <div class="mb-0  text-center me-3">
-                            <img src="/assets/icon/iptv.svg" alt='icon' class='streaming-image-icon'>
+                            <img src="../assets/img/icon/iptv.svg" alt='icon' class='streaming-image-icon'>
                         </div>
                         <div>
                             <div class='card-title'>IPTV</div>
